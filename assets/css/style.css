@@ -989,6 +989,95 @@ ul{ list-style:none; margin:0; padding:0; }
 .qa-box .q .mark{ color: var(--accent); }
 .qa-box .a .mark{ color: var(--accent-2); }
 
+/* tap-to-expand product detail */
+.item-card.has-detail .item-card-head{
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.item-card .detail-hint{
+  margin-left: auto;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: .72rem;
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+.item-card .detail-hint .chev{
+  display: inline-block;
+  transition: transform .25s ease;
+}
+.item-card.is-open .detail-hint .chev{ transform: rotate(180deg); }
+
+.item-detail{
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height .35s ease, opacity .3s ease, margin .3s ease;
+  margin: 0;
+}
+.item-card.is-open .item-detail{
+  max-height: 1200px;
+  opacity: 1;
+  margin: 4px 0 14px;
+}
+.item-detail-inner{
+  border-top: 1px dashed var(--border);
+  padding-top: 14px;
+}
+.item-detail h5{
+  margin: 14px 0 8px;
+  font-size: .88rem;
+}
+.item-detail h5:first-child{ margin-top: 0; }
+.spec-table{
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .85rem;
+  margin: 0 0 6px;
+}
+.spec-table th, .spec-table td{
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+.spec-table th{
+  background: var(--bg-soft);
+  white-space: nowrap;
+  width: 34%;
+  font-weight: 700;
+}
+.merit-demerit{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 0 0 6px;
+}
+.merit-demerit > div{
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  font-size: .84rem;
+  line-height: 1.6;
+}
+.merit-demerit .merit{ background: color-mix(in srgb, var(--cat-health) 12%, transparent); }
+.merit-demerit .demerit{ background: color-mix(in srgb, var(--accent-2) 10%, transparent); }
+.merit-demerit strong{ display: block; margin-bottom: 4px; font-size: .8rem; }
+.merit-demerit ul{ margin: 0; padding: 0; }
+.merit-demerit li{ list-style: none; margin-bottom: .3em; }
+@media (max-width: 520px){
+  .merit-demerit{ grid-template-columns: 1fr; }
+}
+.detail-memo{
+  background: var(--accent-soft);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  font-size: .85rem;
+  line-height: 1.6;
+}
+
 .next-article{
   display: block;
   margin: 2.2em 0 1em;
