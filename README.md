@@ -1,1 +1,39 @@
-# petlabo
+# MEGURU（メグル）
+
+テクノロジー・旅・グルメ・ライフスタイル・健康など、ジャンルを問わず記事を書いていく
+ブログサイトです（アフィリエイトサイトではなく、純粋な読み物ブログとして構成しています）。
+ビルドツール不要の静的 HTML / CSS / JS のみで作られており、ブラウザで直接開いて確認できます。
+
+## 構成
+
+```
+index.html                 トップページ（記事一覧・検索・ジャンル絞り込み）
+about.html                 このブログについて
+articles/                  記事本体（サンプル記事 5本）
+templates/article-template.html   新しい記事を作るためのテンプレート
+assets/css/style.css       デザインシステム一式（ライト/ダークモード対応）
+assets/js/main.js          ナビ開閉・テーマ切替・検索/絞り込み・読了プログレスバー
+```
+
+## 記事を追加する手順
+
+1. `templates/article-template.html` を `articles/` 配下へ好きなファイル名でコピーする
+2. ファイル内の `[PLACEHOLDER]` をすべて実際の内容に書き換える
+3. カテゴリーに応じてタグ／カバー画像のクラスを揃える
+   - テクノロジー: `c-tech` / `m-tech`
+   - 旅: `c-travel` / `m-travel`
+   - グルメ: `c-food` / `m-food`
+   - ライフスタイル: `c-life` / `m-life`
+   - 健康: `c-health` / `m-health`
+   - 新ジャンルを増やす場合は `assets/css/style.css` の
+     `category color helpers` セクションに `c-xxx` / `m-xxx` を追記する
+4. `index.html` の記事一覧（`.article-grid` 内）にカードを1つ追加する
+   - `data-category` と `data-search`（タイトルや関連キーワード）を必ず設定する
+     （検索・絞り込み機能はこの属性を見て動作します）
+5. 必要に応じて、既存記事の「関連記事」セクションにも新記事へのリンクを足す
+
+この手順を繰り返すだけで、デザインを崩さずに記事を量産できます。
+
+## ローカルで確認する
+
+ビルド不要なので `index.html` をブラウザで直接開くだけで確認できます。
