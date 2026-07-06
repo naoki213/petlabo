@@ -462,6 +462,7 @@ ul{ list-style:none; margin:0; padding:0; }
 .c-health { background: color-mix(in srgb, var(--cat-health) 16%, transparent); color: var(--cat-health); }
 .c-pet    { background: color-mix(in srgb, var(--cat-pet) 16%, transparent); color: var(--cat-pet); }
 .c-pr     { background: color-mix(in srgb, var(--amazon) 18%, transparent); color: color-mix(in srgb, var(--amazon) 65%, black); }
+.c-compare{ background: var(--bg-soft); color: var(--text-muted); border: 1px solid var(--border); }
 
 .m-tech   { background: linear-gradient(135deg, color-mix(in srgb, var(--cat-tech) 85%, white), var(--cat-tech)); }
 .m-travel { background: linear-gradient(135deg, color-mix(in srgb, var(--cat-travel) 85%, white), var(--cat-travel)); }
@@ -699,6 +700,54 @@ ul{ list-style:none; margin:0; padding:0; }
 .product-pick-info{ flex: 1; min-width: 200px; }
 .product-pick-info h4{ margin: 0 0 6px; font-size: 1rem; }
 .product-pick-info p{ margin: 0; font-size: .88rem; color: var(--text-muted); }
+
+.rank-pick{ position: relative; }
+
+.rank-badge{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  font-weight: 800;
+  font-size: .9rem;
+  color: #fff;
+  flex: none;
+  background: #9aa0a6;
+}
+
+.rank-badge.rank-1{ background: linear-gradient(135deg, #f3c352, #d4a017); }
+.rank-badge.rank-2{ background: linear-gradient(135deg, #cfd3d8, #a3a9b0); }
+.rank-badge.rank-3{ background: linear-gradient(135deg, #e3a468, #b97a3f); }
+
+.rank-pick-head{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.rank-pick-head h4{ margin: 0; font-size: 1.05rem; }
+
+.pros-cons{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 12px 0 16px;
+}
+.pros-cons > div{
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  font-size: .84rem;
+  line-height: 1.6;
+}
+.pros-cons .pros{ background: color-mix(in srgb, var(--cat-health) 12%, transparent); }
+.pros-cons .cons{ background: color-mix(in srgb, var(--accent-2) 10%, transparent); }
+.pros-cons strong{ display: block; margin-bottom: 4px; font-size: .8rem; }
+
+@media (max-width: 520px){
+  .pros-cons{ grid-template-columns: 1fr; }
+}
 
 .btn-amazon{
   background: var(--amazon);
