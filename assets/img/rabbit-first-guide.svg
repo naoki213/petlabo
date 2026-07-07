@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのうさぎ、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0f0"/>
+<stop offset="1" stop-color="#fff3c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="412" cy="180" r="4" fill="#ffffff" opacity="0.5"/><circle cx="737" cy="252" r="4" fill="#ffffff" opacity="0.65"/><circle cx="291" cy="189" r="5" fill="#ffffff" opacity="0.8"/><circle cx="803" cy="222" r="3" fill="#ffffff" opacity="0.5"/><circle cx="680" cy="300" r="3" fill="#ffffff" opacity="0.8"/><circle cx="871" cy="483" r="4" fill="#ffffff" opacity="0.5"/><circle cx="304" cy="175" r="5" fill="#ffffff" opacity="0.65"/><circle cx="101" cy="512" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1072" cy="454" r="6" fill="#ffffff" opacity="0.5"/><circle cx="809" cy="258" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1129" cy="400" r="5" fill="#ffffff" opacity="0.65"/><circle cx="481" cy="147" r="6" fill="#ffffff" opacity="0.65"/><circle cx="538" cy="505" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1127" cy="586" r="4" fill="#ffffff" opacity="0.8"/><path d="M1115 137 L1119 147 L1129 151 L1119 155 L1115 165 L1111 155 L1101 151 L1111 147 Z" fill="#ffffff" opacity="0.55"/><path d="M262 414 L266 424 L276 428 L266 432 L262 442 L258 432 L248 428 L258 424 Z" fill="#ffffff" opacity="0.7"/><path d="M919 105 L924 118 L937 123 L924 128 L919 141 L914 128 L901 123 L914 118 Z" fill="#ffffff" opacity="0.7"/><path d="M745 197 L749 207 L759 211 L749 215 L745 225 L741 215 L731 211 L741 207 Z" fill="#ffffff" opacity="0.7"/><path d="M940 152 L944 162 L954 166 L944 170 L940 180 L936 170 L926 166 L936 162 Z" fill="#ffffff" opacity="0.55"/><path d="M1027 242 L1032 255 L1045 260 L1032 265 L1027 278 L1022 265 L1009 260 L1022 255 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐰</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのうさぎ、お迎え準備ガイド</text>
+</svg>
