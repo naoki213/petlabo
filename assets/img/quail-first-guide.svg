@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのうずら、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe4c4"/>
+<stop offset="1" stop-color="#fff3c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1012" cy="166" r="6" fill="#ffffff" opacity="0.65"/><circle cx="674" cy="213" r="6" fill="#ffffff" opacity="0.8"/><circle cx="990" cy="146" r="6" fill="#ffffff" opacity="0.5"/><circle cx="766" cy="557" r="3" fill="#ffffff" opacity="0.8"/><circle cx="928" cy="507" r="3" fill="#ffffff" opacity="0.8"/><circle cx="880" cy="598" r="3" fill="#ffffff" opacity="0.65"/><circle cx="842" cy="475" r="3" fill="#ffffff" opacity="0.8"/><circle cx="964" cy="403" r="6" fill="#ffffff" opacity="0.8"/><circle cx="346" cy="484" r="4" fill="#ffffff" opacity="0.8"/><circle cx="512" cy="321" r="4" fill="#ffffff" opacity="0.65"/><circle cx="399" cy="404" r="5" fill="#ffffff" opacity="0.65"/><circle cx="887" cy="83" r="5" fill="#ffffff" opacity="0.8"/><circle cx="178" cy="47" r="3" fill="#ffffff" opacity="0.65"/><circle cx="215" cy="58" r="5" fill="#ffffff" opacity="0.65"/><path d="M215 455 L220 468 L233 473 L220 478 L215 491 L210 478 L197 473 L210 468 Z" fill="#ffffff" opacity="0.55"/><path d="M423 285 L428 298 L441 303 L428 308 L423 321 L418 308 L405 303 L418 298 Z" fill="#ffffff" opacity="0.55"/><path d="M264 424 L268 434 L278 438 L268 442 L264 452 L260 442 L250 438 L260 434 Z" fill="#ffffff" opacity="0.7"/><path d="M914 79 L920 95 L936 101 L920 107 L914 123 L908 107 L892 101 L908 95 Z" fill="#ffffff" opacity="0.55"/><path d="M1066 271 L1072 287 L1088 293 L1072 299 L1066 315 L1060 299 L1044 293 L1060 287 Z" fill="#ffffff" opacity="0.55"/><path d="M129 213 L133 223 L143 227 L133 231 L129 241 L125 231 L115 227 L125 223 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐣</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのうずら、お迎え準備ガイド</text>
+</svg>
