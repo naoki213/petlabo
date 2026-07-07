@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのフェレット、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0c4"/>
+<stop offset="1" stop-color="#ffd6e8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="533" cy="233" r="6" fill="#ffffff" opacity="0.8"/><circle cx="75" cy="81" r="5" fill="#ffffff" opacity="0.65"/><circle cx="73" cy="308" r="3" fill="#ffffff" opacity="0.65"/><circle cx="782" cy="509" r="6" fill="#ffffff" opacity="0.8"/><circle cx="73" cy="505" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1102" cy="56" r="5" fill="#ffffff" opacity="0.65"/><circle cx="498" cy="54" r="5" fill="#ffffff" opacity="0.5"/><circle cx="200" cy="537" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1085" cy="591" r="4" fill="#ffffff" opacity="0.5"/><circle cx="661" cy="117" r="4" fill="#ffffff" opacity="0.5"/><circle cx="762" cy="508" r="4" fill="#ffffff" opacity="0.8"/><circle cx="331" cy="165" r="6" fill="#ffffff" opacity="0.65"/><circle cx="547" cy="373" r="3" fill="#ffffff" opacity="0.8"/><circle cx="916" cy="93" r="4" fill="#ffffff" opacity="0.5"/><path d="M361 400 L366 413 L379 418 L366 423 L361 436 L356 423 L343 418 L356 413 Z" fill="#ffffff" opacity="0.7"/><path d="M318 340 L323 353 L336 358 L323 363 L318 376 L313 363 L300 358 L313 353 Z" fill="#ffffff" opacity="0.55"/><path d="M560 308 L565 321 L578 326 L565 331 L560 344 L555 331 L542 326 L555 321 Z" fill="#ffffff" opacity="0.55"/><path d="M309 290 L314 303 L327 308 L314 313 L309 326 L304 313 L291 308 L304 303 Z" fill="#ffffff" opacity="0.55"/><path d="M1053 380 L1057 390 L1067 394 L1057 398 L1053 408 L1049 398 L1039 394 L1049 390 Z" fill="#ffffff" opacity="0.55"/><path d="M649 483 L655 499 L671 505 L655 511 L649 527 L643 511 L627 505 L643 499 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🦡</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのフェレット、お迎え準備ガイド</text>
+</svg>

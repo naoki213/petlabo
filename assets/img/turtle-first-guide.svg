@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのカメ、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e8d9"/>
+<stop offset="1" stop-color="#c9e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="261" cy="388" r="5" fill="#ffffff" opacity="0.5"/><circle cx="448" cy="206" r="3" fill="#ffffff" opacity="0.65"/><circle cx="205" cy="538" r="6" fill="#ffffff" opacity="0.65"/><circle cx="293" cy="43" r="6" fill="#ffffff" opacity="0.5"/><circle cx="919" cy="192" r="6" fill="#ffffff" opacity="0.5"/><circle cx="847" cy="164" r="6" fill="#ffffff" opacity="0.8"/><circle cx="1151" cy="494" r="5" fill="#ffffff" opacity="0.65"/><circle cx="992" cy="140" r="6" fill="#ffffff" opacity="0.65"/><circle cx="162" cy="407" r="4" fill="#ffffff" opacity="0.65"/><circle cx="287" cy="428" r="3" fill="#ffffff" opacity="0.8"/><circle cx="189" cy="63" r="6" fill="#ffffff" opacity="0.8"/><circle cx="323" cy="252" r="6" fill="#ffffff" opacity="0.65"/><circle cx="618" cy="320" r="4" fill="#ffffff" opacity="0.65"/><circle cx="220" cy="294" r="4" fill="#ffffff" opacity="0.8"/><path d="M514 372 L518 382 L528 386 L518 390 L514 400 L510 390 L500 386 L510 382 Z" fill="#ffffff" opacity="0.55"/><path d="M1010 329 L1014 339 L1024 343 L1014 347 L1010 357 L1006 347 L996 343 L1006 339 Z" fill="#ffffff" opacity="0.55"/><path d="M991 132 L995 142 L1005 146 L995 150 L991 160 L987 150 L977 146 L987 142 Z" fill="#ffffff" opacity="0.55"/><path d="M465 193 L470 206 L483 211 L470 216 L465 229 L460 216 L447 211 L460 206 Z" fill="#ffffff" opacity="0.7"/><path d="M602 444 L607 457 L620 462 L607 467 L602 480 L597 467 L584 462 L597 457 Z" fill="#ffffff" opacity="0.55"/><path d="M1039 88 L1044 101 L1057 106 L1044 111 L1039 124 L1034 111 L1021 106 L1034 101 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐢</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのカメ、お迎え準備ガイド</text>
+</svg>

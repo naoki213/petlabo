@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのレオパ、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe6b3"/>
+<stop offset="1" stop-color="#c4e8c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="363" cy="222" r="4" fill="#ffffff" opacity="0.8"/><circle cx="709" cy="144" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1044" cy="209" r="5" fill="#ffffff" opacity="0.5"/><circle cx="256" cy="213" r="4" fill="#ffffff" opacity="0.5"/><circle cx="822" cy="120" r="6" fill="#ffffff" opacity="0.5"/><circle cx="877" cy="358" r="3" fill="#ffffff" opacity="0.5"/><circle cx="346" cy="485" r="6" fill="#ffffff" opacity="0.8"/><circle cx="970" cy="559" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1038" cy="279" r="4" fill="#ffffff" opacity="0.5"/><circle cx="124" cy="56" r="3" fill="#ffffff" opacity="0.5"/><circle cx="56" cy="405" r="3" fill="#ffffff" opacity="0.5"/><circle cx="302" cy="289" r="6" fill="#ffffff" opacity="0.5"/><circle cx="316" cy="371" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1167" cy="452" r="3" fill="#ffffff" opacity="0.5"/><path d="M528 514 L533 527 L546 532 L533 537 L528 550 L523 537 L510 532 L523 527 Z" fill="#ffffff" opacity="0.55"/><path d="M481 96 L485 106 L495 110 L485 114 L481 124 L477 114 L467 110 L477 106 Z" fill="#ffffff" opacity="0.7"/><path d="M481 472 L487 488 L503 494 L487 500 L481 516 L475 500 L459 494 L475 488 Z" fill="#ffffff" opacity="0.55"/><path d="M1073 314 L1078 327 L1091 332 L1078 337 L1073 350 L1068 337 L1055 332 L1068 327 Z" fill="#ffffff" opacity="0.55"/><path d="M922 503 L927 516 L940 521 L927 526 L922 539 L917 526 L904 521 L917 516 Z" fill="#ffffff" opacity="0.55"/><path d="M426 440 L432 456 L448 462 L432 468 L426 484 L420 468 L404 462 L420 456 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🦎</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのレオパ、お迎え準備ガイド</text>
+</svg>
