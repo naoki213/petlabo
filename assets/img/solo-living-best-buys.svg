@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="一人暮らしの買ってよかった10選">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe6c9"/>
+<stop offset="1" stop-color="#ffd6e8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="312" cy="589" r="4" fill="#ffffff" opacity="0.65"/><circle cx="352" cy="344" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1037" cy="190" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1045" cy="204" r="3" fill="#ffffff" opacity="0.5"/><circle cx="312" cy="333" r="5" fill="#ffffff" opacity="0.65"/><circle cx="348" cy="173" r="3" fill="#ffffff" opacity="0.65"/><circle cx="459" cy="396" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1033" cy="582" r="3" fill="#ffffff" opacity="0.65"/><circle cx="201" cy="292" r="5" fill="#ffffff" opacity="0.65"/><circle cx="585" cy="135" r="4" fill="#ffffff" opacity="0.65"/><circle cx="131" cy="282" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1031" cy="344" r="3" fill="#ffffff" opacity="0.8"/><circle cx="143" cy="516" r="5" fill="#ffffff" opacity="0.65"/><circle cx="641" cy="244" r="5" fill="#ffffff" opacity="0.65"/><path d="M295 422 L300 435 L313 440 L300 445 L295 458 L290 445 L277 440 L290 435 Z" fill="#ffffff" opacity="0.7"/><path d="M344 287 L350 303 L366 309 L350 315 L344 331 L338 315 L322 309 L338 303 Z" fill="#ffffff" opacity="0.55"/><path d="M197 323 L201 333 L211 337 L201 341 L197 351 L193 341 L183 337 L193 333 Z" fill="#ffffff" opacity="0.7"/><path d="M315 502 L319 512 L329 516 L319 520 L315 530 L311 520 L301 516 L311 512 Z" fill="#ffffff" opacity="0.55"/><path d="M241 233 L245 243 L255 247 L245 251 L241 261 L237 251 L227 247 L237 243 Z" fill="#ffffff" opacity="0.7"/><path d="M337 165 L343 181 L359 187 L343 193 L337 209 L331 193 L315 187 L331 181 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🛋️</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">一人暮らしの買ってよかった10選</text>
+</svg>

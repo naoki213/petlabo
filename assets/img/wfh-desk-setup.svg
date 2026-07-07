@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="在宅ワークのデスク環境12選">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c9e8ff"/>
+<stop offset="1" stop-color="#e0d9ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="887" cy="483" r="4" fill="#ffffff" opacity="0.5"/><circle cx="674" cy="277" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1111" cy="89" r="3" fill="#ffffff" opacity="0.65"/><circle cx="470" cy="548" r="6" fill="#ffffff" opacity="0.5"/><circle cx="49" cy="443" r="4" fill="#ffffff" opacity="0.5"/><circle cx="969" cy="173" r="5" fill="#ffffff" opacity="0.5"/><circle cx="288" cy="131" r="5" fill="#ffffff" opacity="0.8"/><circle cx="242" cy="502" r="6" fill="#ffffff" opacity="0.65"/><circle cx="213" cy="556" r="4" fill="#ffffff" opacity="0.5"/><circle cx="256" cy="424" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1083" cy="137" r="6" fill="#ffffff" opacity="0.65"/><circle cx="989" cy="255" r="4" fill="#ffffff" opacity="0.8"/><circle cx="243" cy="181" r="5" fill="#ffffff" opacity="0.8"/><circle cx="943" cy="366" r="3" fill="#ffffff" opacity="0.65"/><path d="M947 339 L951 349 L961 353 L951 357 L947 367 L943 357 L933 353 L943 349 Z" fill="#ffffff" opacity="0.55"/><path d="M968 161 L974 177 L990 183 L974 189 L968 205 L962 189 L946 183 L962 177 Z" fill="#ffffff" opacity="0.55"/><path d="M297 481 L301 491 L311 495 L301 499 L297 509 L293 499 L283 495 L293 491 Z" fill="#ffffff" opacity="0.55"/><path d="M467 231 L472 244 L485 249 L472 254 L467 267 L462 254 L449 249 L462 244 Z" fill="#ffffff" opacity="0.7"/><path d="M1024 415 L1028 425 L1038 429 L1028 433 L1024 443 L1020 433 L1010 429 L1020 425 Z" fill="#ffffff" opacity="0.55"/><path d="M1029 384 L1035 400 L1051 406 L1035 412 L1029 428 L1023 412 L1007 406 L1023 400 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🖥️</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">在宅ワークのデスク環境12選</text>
+</svg>
