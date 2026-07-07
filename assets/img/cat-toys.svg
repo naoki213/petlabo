@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="猫用おもちゃ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#fff3c4"/>
+<stop offset="1" stop-color="#ffd6e8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="357" cy="99" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1021" cy="111" r="6" fill="#ffffff" opacity="0.65"/><circle cx="312" cy="448" r="5" fill="#ffffff" opacity="0.65"/><circle cx="834" cy="421" r="6" fill="#ffffff" opacity="0.8"/><circle cx="599" cy="307" r="4" fill="#ffffff" opacity="0.5"/><circle cx="764" cy="167" r="3" fill="#ffffff" opacity="0.5"/><circle cx="418" cy="497" r="3" fill="#ffffff" opacity="0.65"/><circle cx="671" cy="129" r="3" fill="#ffffff" opacity="0.5"/><circle cx="835" cy="118" r="3" fill="#ffffff" opacity="0.8"/><circle cx="239" cy="84" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1140" cy="61" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1085" cy="243" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1040" cy="545" r="5" fill="#ffffff" opacity="0.5"/><circle cx="573" cy="389" r="4" fill="#ffffff" opacity="0.5"/><path d="M1078 281 L1082 291 L1092 295 L1082 299 L1078 309 L1074 299 L1064 295 L1074 291 Z" fill="#ffffff" opacity="0.7"/><path d="M221 99 L226 112 L239 117 L226 122 L221 135 L216 122 L203 117 L216 112 Z" fill="#ffffff" opacity="0.7"/><path d="M1128 360 L1133 373 L1146 378 L1133 383 L1128 396 L1123 383 L1110 378 L1123 373 Z" fill="#ffffff" opacity="0.7"/><path d="M350 253 L355 266 L368 271 L355 276 L350 289 L345 276 L332 271 L345 266 Z" fill="#ffffff" opacity="0.7"/><path d="M1108 342 L1113 355 L1126 360 L1113 365 L1108 378 L1103 365 L1090 360 L1103 355 Z" fill="#ffffff" opacity="0.7"/><path d="M799 486 L805 502 L821 508 L805 514 L799 530 L793 514 L777 508 L793 502 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🧶</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">猫用おもちゃ比較</text>
+</svg>

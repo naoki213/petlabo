@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="ペット用自動給水器比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c9e8ff"/>
+<stop offset="1" stop-color="#e0d9ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="56" cy="58" r="6" fill="#ffffff" opacity="0.5"/><circle cx="506" cy="243" r="4" fill="#ffffff" opacity="0.65"/><circle cx="777" cy="469" r="3" fill="#ffffff" opacity="0.65"/><circle cx="99" cy="354" r="6" fill="#ffffff" opacity="0.65"/><circle cx="976" cy="162" r="4" fill="#ffffff" opacity="0.5"/><circle cx="164" cy="566" r="4" fill="#ffffff" opacity="0.8"/><circle cx="932" cy="374" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1056" cy="171" r="5" fill="#ffffff" opacity="0.8"/><circle cx="877" cy="397" r="5" fill="#ffffff" opacity="0.65"/><circle cx="934" cy="388" r="5" fill="#ffffff" opacity="0.5"/><circle cx="335" cy="398" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1114" cy="398" r="5" fill="#ffffff" opacity="0.8"/><circle cx="230" cy="116" r="4" fill="#ffffff" opacity="0.65"/><circle cx="673" cy="442" r="3" fill="#ffffff" opacity="0.5"/><path d="M436 436 L442 452 L458 458 L442 464 L436 480 L430 464 L414 458 L430 452 Z" fill="#ffffff" opacity="0.55"/><path d="M1128 428 L1132 438 L1142 442 L1132 446 L1128 456 L1124 446 L1114 442 L1124 438 Z" fill="#ffffff" opacity="0.55"/><path d="M462 400 L467 413 L480 418 L467 423 L462 436 L457 423 L444 418 L457 413 Z" fill="#ffffff" opacity="0.7"/><path d="M398 106 L404 122 L420 128 L404 134 L398 150 L392 134 L376 128 L392 122 Z" fill="#ffffff" opacity="0.55"/><path d="M710 433 L715 446 L728 451 L715 456 L710 469 L705 456 L692 451 L705 446 Z" fill="#ffffff" opacity="0.7"/><path d="M349 474 L354 487 L367 492 L354 497 L349 510 L344 497 L331 492 L344 487 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">💧</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">ペット用自動給水器比較</text>
+</svg>

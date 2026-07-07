@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="犬用知育トイ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe6c9"/>
+<stop offset="1" stop-color="#c9f0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1137" cy="280" r="6" fill="#ffffff" opacity="0.65"/><circle cx="557" cy="151" r="5" fill="#ffffff" opacity="0.8"/><circle cx="57" cy="393" r="6" fill="#ffffff" opacity="0.65"/><circle cx="373" cy="497" r="3" fill="#ffffff" opacity="0.5"/><circle cx="875" cy="230" r="3" fill="#ffffff" opacity="0.8"/><circle cx="649" cy="446" r="3" fill="#ffffff" opacity="0.65"/><circle cx="358" cy="195" r="6" fill="#ffffff" opacity="0.8"/><circle cx="353" cy="255" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1130" cy="150" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1053" cy="108" r="4" fill="#ffffff" opacity="0.8"/><circle cx="130" cy="154" r="4" fill="#ffffff" opacity="0.8"/><circle cx="895" cy="276" r="5" fill="#ffffff" opacity="0.5"/><circle cx="953" cy="40" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1105" cy="537" r="5" fill="#ffffff" opacity="0.8"/><path d="M130 145 L136 161 L152 167 L136 173 L130 189 L124 173 L108 167 L124 161 Z" fill="#ffffff" opacity="0.7"/><path d="M153 520 L159 536 L175 542 L159 548 L153 564 L147 548 L131 542 L147 536 Z" fill="#ffffff" opacity="0.55"/><path d="M984 46 L990 62 L1006 68 L990 74 L984 90 L978 74 L962 68 L978 62 Z" fill="#ffffff" opacity="0.7"/><path d="M382 248 L386 258 L396 262 L386 266 L382 276 L378 266 L368 262 L378 258 Z" fill="#ffffff" opacity="0.55"/><path d="M1001 255 L1005 265 L1015 269 L1005 273 L1001 283 L997 273 L987 269 L997 265 Z" fill="#ffffff" opacity="0.55"/><path d="M62 131 L68 147 L84 153 L68 159 L62 175 L56 159 L40 153 L56 147 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🎾</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">犬用知育トイ比較</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="キャットタワー比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6e8"/>
+<stop offset="1" stop-color="#e0d9ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="258" cy="135" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1102" cy="231" r="3" fill="#ffffff" opacity="0.65"/><circle cx="677" cy="59" r="3" fill="#ffffff" opacity="0.5"/><circle cx="32" cy="477" r="3" fill="#ffffff" opacity="0.5"/><circle cx="422" cy="506" r="5" fill="#ffffff" opacity="0.5"/><circle cx="578" cy="499" r="6" fill="#ffffff" opacity="0.5"/><circle cx="832" cy="254" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1129" cy="583" r="5" fill="#ffffff" opacity="0.8"/><circle cx="629" cy="164" r="3" fill="#ffffff" opacity="0.65"/><circle cx="511" cy="350" r="3" fill="#ffffff" opacity="0.8"/><circle cx="395" cy="268" r="3" fill="#ffffff" opacity="0.65"/><circle cx="287" cy="110" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1118" cy="554" r="5" fill="#ffffff" opacity="0.65"/><circle cx="279" cy="406" r="5" fill="#ffffff" opacity="0.8"/><path d="M154 328 L159 341 L172 346 L159 351 L154 364 L149 351 L136 346 L149 341 Z" fill="#ffffff" opacity="0.55"/><path d="M673 267 L678 280 L691 285 L678 290 L673 303 L668 290 L655 285 L668 280 Z" fill="#ffffff" opacity="0.55"/><path d="M938 377 L943 390 L956 395 L943 400 L938 413 L933 400 L920 395 L933 390 Z" fill="#ffffff" opacity="0.7"/><path d="M176 177 L182 193 L198 199 L182 205 L176 221 L170 205 L154 199 L170 193 Z" fill="#ffffff" opacity="0.7"/><path d="M896 518 L902 534 L918 540 L902 546 L896 562 L890 546 L874 540 L890 534 Z" fill="#ffffff" opacity="0.55"/><path d="M631 304 L635 314 L645 318 L635 322 L631 332 L627 322 L617 318 L627 314 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🏰</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">キャットタワー比較</text>
+</svg>

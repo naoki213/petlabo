@@ -1020,7 +1020,7 @@ ul{ list-style:none; margin:0; padding:0; }
   margin: 0;
 }
 .item-card.is-open .item-detail{
-  max-height: 1200px;
+  max-height: 2400px;
   opacity: 1;
   margin: 4px 0 14px;
 }
