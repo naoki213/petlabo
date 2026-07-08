@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="犬のしつけグッズ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0c4"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="299" cy="423" r="5" fill="#ffffff" opacity="0.5"/><circle cx="503" cy="387" r="5" fill="#ffffff" opacity="0.8"/><circle cx="812" cy="491" r="5" fill="#ffffff" opacity="0.5"/><circle cx="252" cy="600" r="4" fill="#ffffff" opacity="0.8"/><circle cx="593" cy="73" r="3" fill="#ffffff" opacity="0.8"/><circle cx="359" cy="496" r="3" fill="#ffffff" opacity="0.8"/><circle cx="211" cy="584" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1122" cy="218" r="3" fill="#ffffff" opacity="0.5"/><circle cx="786" cy="417" r="6" fill="#ffffff" opacity="0.8"/><circle cx="603" cy="302" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1003" cy="38" r="4" fill="#ffffff" opacity="0.5"/><circle cx="534" cy="250" r="4" fill="#ffffff" opacity="0.8"/><circle cx="581" cy="113" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1014" cy="260" r="3" fill="#ffffff" opacity="0.5"/><path d="M149 421 L153 431 L163 435 L153 439 L149 449 L145 439 L135 435 L145 431 Z" fill="#ffffff" opacity="0.7"/><path d="M517 520 L522 533 L535 538 L522 543 L517 556 L512 543 L499 538 L512 533 Z" fill="#ffffff" opacity="0.55"/><path d="M1006 214 L1012 230 L1028 236 L1012 242 L1006 258 L1000 242 L984 236 L1000 230 Z" fill="#ffffff" opacity="0.7"/><path d="M208 199 L214 215 L230 221 L214 227 L208 243 L202 227 L186 221 L202 215 Z" fill="#ffffff" opacity="0.55"/><path d="M978 459 L984 475 L1000 481 L984 487 L978 503 L972 487 L956 481 L972 475 Z" fill="#ffffff" opacity="0.7"/><path d="M888 455 L894 471 L910 477 L894 483 L888 499 L882 483 L866 477 L882 471 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🎓</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">犬のしつけグッズ比較</text>
+</svg>

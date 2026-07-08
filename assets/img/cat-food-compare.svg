@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="キャットフード比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0d0"/>
+<stop offset="1" stop-color="#c4f0e0"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1006" cy="156" r="6" fill="#ffffff" opacity="0.65"/><circle cx="681" cy="123" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1038" cy="188" r="4" fill="#ffffff" opacity="0.65"/><circle cx="907" cy="255" r="6" fill="#ffffff" opacity="0.8"/><circle cx="614" cy="579" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1058" cy="156" r="3" fill="#ffffff" opacity="0.65"/><circle cx="113" cy="490" r="3" fill="#ffffff" opacity="0.5"/><circle cx="757" cy="54" r="4" fill="#ffffff" opacity="0.5"/><circle cx="532" cy="299" r="6" fill="#ffffff" opacity="0.8"/><circle cx="1131" cy="251" r="4" fill="#ffffff" opacity="0.65"/><circle cx="454" cy="284" r="5" fill="#ffffff" opacity="0.65"/><circle cx="232" cy="493" r="6" fill="#ffffff" opacity="0.65"/><circle cx="310" cy="36" r="4" fill="#ffffff" opacity="0.8"/><circle cx="216" cy="401" r="5" fill="#ffffff" opacity="0.8"/><path d="M239 107 L243 117 L253 121 L243 125 L239 135 L235 125 L225 121 L235 117 Z" fill="#ffffff" opacity="0.55"/><path d="M69 306 L74 319 L87 324 L74 329 L69 342 L64 329 L51 324 L64 319 Z" fill="#ffffff" opacity="0.7"/><path d="M686 167 L691 180 L704 185 L691 190 L686 203 L681 190 L668 185 L681 180 Z" fill="#ffffff" opacity="0.55"/><path d="M998 215 L1002 225 L1012 229 L1002 233 L998 243 L994 233 L984 229 L994 225 Z" fill="#ffffff" opacity="0.7"/><path d="M816 547 L822 563 L838 569 L822 575 L816 591 L810 575 L794 569 L810 563 Z" fill="#ffffff" opacity="0.55"/><path d="M99 294 L104 307 L117 312 L104 317 L99 330 L94 317 L81 312 L94 307 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐟</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">キャットフード比較</text>
+</svg>
