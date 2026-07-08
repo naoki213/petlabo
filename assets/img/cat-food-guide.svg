@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="キャットフードの選び方、失敗しないガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0d0"/>
+<stop offset="1" stop-color="#c4f0e0"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="604" cy="244" r="5" fill="#ffffff" opacity="0.5"/><circle cx="273" cy="387" r="6" fill="#ffffff" opacity="0.8"/><circle cx="271" cy="413" r="4" fill="#ffffff" opacity="0.5"/><circle cx="561" cy="278" r="5" fill="#ffffff" opacity="0.65"/><circle cx="486" cy="448" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1017" cy="414" r="3" fill="#ffffff" opacity="0.65"/><circle cx="113" cy="76" r="3" fill="#ffffff" opacity="0.8"/><circle cx="973" cy="563" r="4" fill="#ffffff" opacity="0.65"/><circle cx="63" cy="249" r="4" fill="#ffffff" opacity="0.5"/><circle cx="957" cy="568" r="3" fill="#ffffff" opacity="0.8"/><circle cx="383" cy="80" r="3" fill="#ffffff" opacity="0.5"/><circle cx="247" cy="236" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1135" cy="586" r="3" fill="#ffffff" opacity="0.8"/><circle cx="540" cy="158" r="6" fill="#ffffff" opacity="0.5"/><path d="M899 468 L904 481 L917 486 L904 491 L899 504 L894 491 L881 486 L894 481 Z" fill="#ffffff" opacity="0.55"/><path d="M175 406 L180 419 L193 424 L180 429 L175 442 L170 429 L157 424 L170 419 Z" fill="#ffffff" opacity="0.7"/><path d="M244 200 L248 210 L258 214 L248 218 L244 228 L240 218 L230 214 L240 210 Z" fill="#ffffff" opacity="0.55"/><path d="M524 522 L529 535 L542 540 L529 545 L524 558 L519 545 L506 540 L519 535 Z" fill="#ffffff" opacity="0.55"/><path d="M257 97 L262 110 L275 115 L262 120 L257 133 L252 120 L239 115 L252 110 Z" fill="#ffffff" opacity="0.55"/><path d="M464 155 L468 165 L478 169 L468 173 L464 183 L460 173 L450 169 L460 165 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐟</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">キャットフードの選び方、失敗しないガイド</text>
+</svg>

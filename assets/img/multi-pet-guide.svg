@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="多頭飼い、相性の見極めガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#d0c4ff"/>
+<stop offset="1" stop-color="#ffe0c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="300" cy="562" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1130" cy="591" r="6" fill="#ffffff" opacity="0.8"/><circle cx="142" cy="404" r="3" fill="#ffffff" opacity="0.8"/><circle cx="132" cy="304" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1129" cy="154" r="5" fill="#ffffff" opacity="0.8"/><circle cx="70" cy="273" r="3" fill="#ffffff" opacity="0.65"/><circle cx="326" cy="563" r="5" fill="#ffffff" opacity="0.5"/><circle cx="67" cy="137" r="6" fill="#ffffff" opacity="0.8"/><circle cx="565" cy="395" r="3" fill="#ffffff" opacity="0.8"/><circle cx="585" cy="306" r="3" fill="#ffffff" opacity="0.65"/><circle cx="800" cy="455" r="4" fill="#ffffff" opacity="0.8"/><circle cx="743" cy="354" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1013" cy="301" r="4" fill="#ffffff" opacity="0.65"/><circle cx="801" cy="184" r="4" fill="#ffffff" opacity="0.65"/><path d="M1065 465 L1070 478 L1083 483 L1070 488 L1065 501 L1060 488 L1047 483 L1060 478 Z" fill="#ffffff" opacity="0.7"/><path d="M277 65 L281 75 L291 79 L281 83 L277 93 L273 83 L263 79 L273 75 Z" fill="#ffffff" opacity="0.7"/><path d="M1048 270 L1052 280 L1062 284 L1052 288 L1048 298 L1044 288 L1034 284 L1044 280 Z" fill="#ffffff" opacity="0.7"/><path d="M336 222 L342 238 L358 244 L342 250 L336 266 L330 250 L314 244 L330 238 Z" fill="#ffffff" opacity="0.7"/><path d="M621 461 L625 471 L635 475 L625 479 L621 489 L617 479 L607 475 L617 471 Z" fill="#ffffff" opacity="0.55"/><path d="M1081 94 L1087 110 L1103 116 L1087 122 L1081 138 L1075 122 L1059 116 L1075 110 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐾</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">多頭飼い、相性の見極めガイド</text>
+</svg>
