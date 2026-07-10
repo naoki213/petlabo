@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="携帯冷却グッズ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e8ff"/>
+<stop offset="1" stop-color="#fff3c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1039" cy="256" r="5" fill="#ffffff" opacity="0.8"/><circle cx="417" cy="409" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1151" cy="394" r="6" fill="#ffffff" opacity="0.8"/><circle cx="252" cy="202" r="3" fill="#ffffff" opacity="0.5"/><circle cx="440" cy="403" r="3" fill="#ffffff" opacity="0.8"/><circle cx="290" cy="483" r="4" fill="#ffffff" opacity="0.65"/><circle cx="824" cy="58" r="4" fill="#ffffff" opacity="0.5"/><circle cx="164" cy="462" r="5" fill="#ffffff" opacity="0.8"/><circle cx="297" cy="450" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1147" cy="329" r="5" fill="#ffffff" opacity="0.65"/><circle cx="440" cy="300" r="3" fill="#ffffff" opacity="0.5"/><circle cx="867" cy="148" r="3" fill="#ffffff" opacity="0.5"/><circle cx="448" cy="382" r="5" fill="#ffffff" opacity="0.65"/><circle cx="88" cy="400" r="6" fill="#ffffff" opacity="0.5"/><path d="M973 39 L979 55 L995 61 L979 67 L973 83 L967 67 L951 61 L967 55 Z" fill="#ffffff" opacity="0.55"/><path d="M207 382 L213 398 L229 404 L213 410 L207 426 L201 410 L185 404 L201 398 Z" fill="#ffffff" opacity="0.55"/><path d="M605 495 L610 508 L623 513 L610 518 L605 531 L600 518 L587 513 L600 508 Z" fill="#ffffff" opacity="0.55"/><path d="M846 502 L852 518 L868 524 L852 530 L846 546 L840 530 L824 524 L840 518 Z" fill="#ffffff" opacity="0.55"/><path d="M700 410 L704 420 L714 424 L704 428 L700 438 L696 428 L686 424 L696 420 Z" fill="#ffffff" opacity="0.55"/><path d="M1002 128 L1006 138 L1016 142 L1006 146 L1002 156 L998 146 L988 142 L998 138 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🌬️</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">携帯冷却グッズ比較</text>
+</svg>
