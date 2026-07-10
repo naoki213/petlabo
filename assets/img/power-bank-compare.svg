@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="モバイルバッテリー比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4d8ff"/>
+<stop offset="1" stop-color="#e0c4ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="758" cy="556" r="4" fill="#ffffff" opacity="0.65"/><circle cx="909" cy="366" r="6" fill="#ffffff" opacity="0.5"/><circle cx="304" cy="467" r="6" fill="#ffffff" opacity="0.8"/><circle cx="703" cy="517" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1013" cy="235" r="4" fill="#ffffff" opacity="0.65"/><circle cx="828" cy="366" r="5" fill="#ffffff" opacity="0.65"/><circle cx="887" cy="278" r="3" fill="#ffffff" opacity="0.5"/><circle cx="523" cy="340" r="3" fill="#ffffff" opacity="0.8"/><circle cx="964" cy="436" r="3" fill="#ffffff" opacity="0.8"/><circle cx="464" cy="192" r="6" fill="#ffffff" opacity="0.8"/><circle cx="307" cy="381" r="5" fill="#ffffff" opacity="0.5"/><circle cx="513" cy="220" r="3" fill="#ffffff" opacity="0.8"/><circle cx="320" cy="473" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1047" cy="299" r="5" fill="#ffffff" opacity="0.8"/><path d="M306 517 L311 530 L324 535 L311 540 L306 553 L301 540 L288 535 L301 530 Z" fill="#ffffff" opacity="0.55"/><path d="M472 397 L478 413 L494 419 L478 425 L472 441 L466 425 L450 419 L466 413 Z" fill="#ffffff" opacity="0.55"/><path d="M1036 302 L1040 312 L1050 316 L1040 320 L1036 330 L1032 320 L1022 316 L1032 312 Z" fill="#ffffff" opacity="0.55"/><path d="M504 95 L509 108 L522 113 L509 118 L504 131 L499 118 L486 113 L499 108 Z" fill="#ffffff" opacity="0.7"/><path d="M245 325 L249 335 L259 339 L249 343 L245 353 L241 343 L231 339 L241 335 Z" fill="#ffffff" opacity="0.55"/><path d="M358 510 L364 526 L380 532 L364 538 L358 554 L352 538 L336 532 L352 526 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🔋</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">モバイルバッテリー比較</text>
+</svg>
