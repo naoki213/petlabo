@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="マッサージガン比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6e8"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1151" cy="392" r="4" fill="#ffffff" opacity="0.65"/><circle cx="54" cy="369" r="5" fill="#ffffff" opacity="0.5"/><circle cx="717" cy="577" r="4" fill="#ffffff" opacity="0.8"/><circle cx="438" cy="33" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1010" cy="258" r="6" fill="#ffffff" opacity="0.5"/><circle cx="101" cy="328" r="3" fill="#ffffff" opacity="0.5"/><circle cx="491" cy="97" r="5" fill="#ffffff" opacity="0.65"/><circle cx="649" cy="75" r="5" fill="#ffffff" opacity="0.5"/><circle cx="140" cy="383" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1148" cy="393" r="5" fill="#ffffff" opacity="0.65"/><circle cx="546" cy="75" r="5" fill="#ffffff" opacity="0.5"/><circle cx="77" cy="596" r="4" fill="#ffffff" opacity="0.65"/><circle cx="472" cy="152" r="4" fill="#ffffff" opacity="0.5"/><circle cx="729" cy="217" r="6" fill="#ffffff" opacity="0.65"/><path d="M456 147 L460 157 L470 161 L460 165 L456 175 L452 165 L442 161 L452 157 Z" fill="#ffffff" opacity="0.55"/><path d="M850 324 L855 337 L868 342 L855 347 L850 360 L845 347 L832 342 L845 337 Z" fill="#ffffff" opacity="0.7"/><path d="M559 297 L565 313 L581 319 L565 325 L559 341 L553 325 L537 319 L553 313 Z" fill="#ffffff" opacity="0.55"/><path d="M422 261 L426 271 L436 275 L426 279 L422 289 L418 279 L408 275 L418 271 Z" fill="#ffffff" opacity="0.55"/><path d="M871 422 L876 435 L889 440 L876 445 L871 458 L866 445 L853 440 L866 435 Z" fill="#ffffff" opacity="0.7"/><path d="M886 284 L890 294 L900 298 L890 302 L886 312 L882 302 L872 298 L882 294 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">💆</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">マッサージガン比較</text>
+</svg>
