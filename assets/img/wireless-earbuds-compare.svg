@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="ワイヤレスイヤホン比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4d8ff"/>
+<stop offset="1" stop-color="#ffd6e8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1127" cy="590" r="5" fill="#ffffff" opacity="0.8"/><circle cx="269" cy="339" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1160" cy="421" r="4" fill="#ffffff" opacity="0.5"/><circle cx="656" cy="322" r="5" fill="#ffffff" opacity="0.5"/><circle cx="485" cy="579" r="4" fill="#ffffff" opacity="0.5"/><circle cx="932" cy="450" r="5" fill="#ffffff" opacity="0.65"/><circle cx="203" cy="159" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1114" cy="70" r="4" fill="#ffffff" opacity="0.5"/><circle cx="187" cy="213" r="5" fill="#ffffff" opacity="0.65"/><circle cx="174" cy="598" r="6" fill="#ffffff" opacity="0.5"/><circle cx="277" cy="358" r="5" fill="#ffffff" opacity="0.65"/><circle cx="336" cy="471" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1117" cy="567" r="6" fill="#ffffff" opacity="0.8"/><circle cx="571" cy="452" r="3" fill="#ffffff" opacity="0.5"/><path d="M570 372 L575 385 L588 390 L575 395 L570 408 L565 395 L552 390 L565 385 Z" fill="#ffffff" opacity="0.7"/><path d="M991 389 L995 399 L1005 403 L995 407 L991 417 L987 407 L977 403 L987 399 Z" fill="#ffffff" opacity="0.7"/><path d="M771 55 L777 71 L793 77 L777 83 L771 99 L765 83 L749 77 L765 71 Z" fill="#ffffff" opacity="0.55"/><path d="M884 426 L889 439 L902 444 L889 449 L884 462 L879 449 L866 444 L879 439 Z" fill="#ffffff" opacity="0.55"/><path d="M1063 406 L1069 422 L1085 428 L1069 434 L1063 450 L1057 434 L1041 428 L1057 422 Z" fill="#ffffff" opacity="0.7"/><path d="M701 270 L707 286 L723 292 L707 298 L701 314 L695 298 L679 292 L695 286 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🎧</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">ワイヤレスイヤホン比較</text>
+</svg>
