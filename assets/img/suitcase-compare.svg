@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="スーツケース比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e8ff"/>
+<stop offset="1" stop-color="#ffe0c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="190" cy="30" r="5" fill="#ffffff" opacity="0.65"/><circle cx="378" cy="35" r="5" fill="#ffffff" opacity="0.8"/><circle cx="753" cy="543" r="3" fill="#ffffff" opacity="0.65"/><circle cx="549" cy="268" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1027" cy="165" r="6" fill="#ffffff" opacity="0.65"/><circle cx="723" cy="41" r="6" fill="#ffffff" opacity="0.65"/><circle cx="637" cy="45" r="3" fill="#ffffff" opacity="0.8"/><circle cx="882" cy="146" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1047" cy="104" r="3" fill="#ffffff" opacity="0.65"/><circle cx="573" cy="310" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1112" cy="202" r="6" fill="#ffffff" opacity="0.8"/><circle cx="578" cy="286" r="3" fill="#ffffff" opacity="0.5"/><circle cx="102" cy="57" r="4" fill="#ffffff" opacity="0.8"/><circle cx="229" cy="317" r="3" fill="#ffffff" opacity="0.5"/><path d="M713 264 L719 280 L735 286 L719 292 L713 308 L707 292 L691 286 L707 280 Z" fill="#ffffff" opacity="0.55"/><path d="M1086 483 L1091 496 L1104 501 L1091 506 L1086 519 L1081 506 L1068 501 L1081 496 Z" fill="#ffffff" opacity="0.7"/><path d="M405 110 L411 126 L427 132 L411 138 L405 154 L399 138 L383 132 L399 126 Z" fill="#ffffff" opacity="0.55"/><path d="M711 529 L717 545 L733 551 L717 557 L711 573 L705 557 L689 551 L705 545 Z" fill="#ffffff" opacity="0.55"/><path d="M388 116 L392 126 L402 130 L392 134 L388 144 L384 134 L374 130 L384 126 Z" fill="#ffffff" opacity="0.55"/><path d="M659 345 L665 361 L681 367 L665 373 L659 389 L653 373 L637 367 L653 361 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🧳</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">スーツケース比較</text>
+</svg>

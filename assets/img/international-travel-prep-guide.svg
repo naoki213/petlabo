@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="海外旅行準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0c4"/>
+<stop offset="1" stop-color="#c4e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="501" cy="214" r="3" fill="#ffffff" opacity="0.65"/><circle cx="650" cy="487" r="4" fill="#ffffff" opacity="0.65"/><circle cx="183" cy="461" r="6" fill="#ffffff" opacity="0.5"/><circle cx="613" cy="115" r="4" fill="#ffffff" opacity="0.5"/><circle cx="792" cy="125" r="5" fill="#ffffff" opacity="0.65"/><circle cx="660" cy="65" r="3" fill="#ffffff" opacity="0.5"/><circle cx="964" cy="44" r="4" fill="#ffffff" opacity="0.5"/><circle cx="58" cy="477" r="5" fill="#ffffff" opacity="0.5"/><circle cx="526" cy="129" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1035" cy="377" r="4" fill="#ffffff" opacity="0.8"/><circle cx="724" cy="142" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1109" cy="41" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1070" cy="337" r="6" fill="#ffffff" opacity="0.8"/><circle cx="885" cy="571" r="6" fill="#ffffff" opacity="0.65"/><path d="M704 118 L710 134 L726 140 L710 146 L704 162 L698 146 L682 140 L698 134 Z" fill="#ffffff" opacity="0.55"/><path d="M671 364 L677 380 L693 386 L677 392 L671 408 L665 392 L649 386 L665 380 Z" fill="#ffffff" opacity="0.55"/><path d="M884 300 L889 313 L902 318 L889 323 L884 336 L879 323 L866 318 L879 313 Z" fill="#ffffff" opacity="0.55"/><path d="M1011 76 L1017 92 L1033 98 L1017 104 L1011 120 L1005 104 L989 98 L1005 92 Z" fill="#ffffff" opacity="0.7"/><path d="M904 266 L908 276 L918 280 L908 284 L904 294 L900 284 L890 280 L900 276 Z" fill="#ffffff" opacity="0.55"/><path d="M154 353 L159 366 L172 371 L159 376 L154 389 L149 376 L136 371 L149 366 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">✈️</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">海外旅行準備ガイド</text>
+</svg>
