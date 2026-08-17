@@ -2,6 +2,8 @@
    NOTE Blog — base design system
    ========================================================================== */
 
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;600;700;800&display=swap');
+
 :root{
   --bg: #fbfaf8;
   --bg-elevated: #ffffff;
@@ -9,9 +11,10 @@
   --text: #1a1a1a;
   --text-muted: #6b6b6b;
   --border: #e7e4de;
-  --accent: #5b4bff;
-  --accent-2: #ff5b78;
-  --accent-soft: #edeaff;
+  --accent: #a8492f;
+  --accent-2: #7c3320;
+  --accent-soft: #f3e6de;
+  --font-serif: "Shippori Mincho", "Hiragino Mincho ProN", "Yu Mincho", serif;
   --radius-sm: 10px;
   --radius-md: 16px;
   --radius-lg: 24px;
@@ -39,9 +42,9 @@
   --text: #f0f0f0;
   --text-muted: #9a9aa2;
   --border: #2a2b31;
-  --accent: #8c7dff;
-  --accent-2: #ff7d92;
-  --accent-soft: #232244;
+  --accent: #d98362;
+  --accent-2: #b5633f;
+  --accent-soft: #33241d;
   --shadow-sm: 0 1px 2px rgba(0,0,0,.4);
   --shadow-md: 0 8px 24px rgba(0,0,0,.45);
   --shadow-lg: 0 20px 48px rgba(0,0,0,.55);
@@ -56,9 +59,9 @@
     --text: #f0f0f0;
     --text-muted: #9a9aa2;
     --border: #2a2b31;
-    --accent: #8c7dff;
-    --accent-2: #ff7d92;
-    --accent-soft: #232244;
+    --accent: #d98362;
+    --accent-2: #b5633f;
+    --accent-soft: #33241d;
     --shadow-sm: 0 1px 2px rgba(0,0,0,.4);
     --shadow-md: 0 8px 24px rgba(0,0,0,.45);
     --shadow-lg: 0 20px 48px rgba(0,0,0,.55);
@@ -120,16 +123,17 @@ ul{ list-style:none; margin:0; padding:0; }
   display: flex;
   align-items: center;
   gap: 8px;
-  font-weight: 800;
-  font-size: 1.25rem;
-  letter-spacing: -0.02em;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1.3rem;
+  letter-spacing: .02em;
   white-space: nowrap;
 }
 
 .logo .dot{
-  width: 10px; height: 10px;
+  width: 8px; height: 8px;
   border-radius: 50%;
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  background: var(--accent);
   flex: none;
 }
 
@@ -236,17 +240,16 @@ ul{ list-style:none; margin:0; padding:0; }
 }
 
 .hero h1{
+  font-family: var(--font-serif);
   font-size: clamp(1.9rem, 5.4vw, 3.4rem);
-  line-height: 1.25;
-  letter-spacing: -0.03em;
+  line-height: 1.35;
+  letter-spacing: .01em;
+  font-weight: 700;
   margin: 0 0 16px;
 }
 
 .hero .gradient-text{
-  background: linear-gradient(100deg, var(--accent), var(--accent-2));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  color: var(--accent);
 }
 
 .hero p{
@@ -342,8 +345,10 @@ ul{ list-style:none; margin:0; padding:0; }
 }
 
 .section-head h2{
+  font-family: var(--font-serif);
+  font-weight: 700;
   font-size: clamp(1.25rem, 2.6vw, 1.6rem);
-  letter-spacing: -0.02em;
+  letter-spacing: 0;
   margin: 0;
 }
 
@@ -427,9 +432,11 @@ ul{ list-style:none; margin:0; padding:0; }
 }
 
 .card h3{
-  font-size: 1.08rem;
-  line-height: 1.5;
-  letter-spacing: -0.01em;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.55;
+  letter-spacing: 0;
   margin: 0;
 }
 
@@ -562,9 +569,11 @@ ul{ list-style:none; margin:0; padding:0; }
 .article-hero .tag{ margin: 0 6px 16px 0; }
 
 .article-hero h1{
+  font-family: var(--font-serif);
+  font-weight: 700;
   font-size: clamp(1.6rem, 4.6vw, 2.6rem);
-  line-height: 1.35;
-  letter-spacing: -0.02em;
+  line-height: 1.45;
+  letter-spacing: .005em;
   margin: 0 0 18px;
 }
 
@@ -616,13 +625,17 @@ ul{ list-style:none; margin:0; padding:0; }
 }
 
 .article-body h2{
+  font-family: var(--font-serif);
+  font-weight: 700;
   font-size: clamp(1.2rem, 2.6vw, 1.5rem);
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   margin: 2.2em 0 .7em;
 }
 
 .article-body h3{
-  font-size: 1.08rem;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.1rem;
   margin: 1.8em 0 .6em;
 }
 
@@ -704,13 +717,15 @@ ul{ list-style:none; margin:0; padding:0; }
 .price-band{
   display: inline-flex;
   align-items: center;
-  gap: 4px;
   margin: 2px 0 8px;
-  font-size: .8rem;
-  font-weight: 800;
+  padding: 2px 9px;
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+  border-radius: 999px;
+  font-size: .74rem;
+  font-weight: 700;
+  letter-spacing: .02em;
   color: var(--accent);
 }
-.price-band::before{ content: "💰"; font-size: .82rem; }
 
 .rank-pick{ position: relative; }
 
