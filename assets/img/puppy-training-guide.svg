@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="子犬のしつけ、はじめの一歩ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0c4"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="978" cy="529" r="6" fill="#ffffff" opacity="0.5"/><circle cx="782" cy="382" r="4" fill="#ffffff" opacity="0.5"/><circle cx="665" cy="157" r="5" fill="#ffffff" opacity="0.65"/><circle cx="161" cy="181" r="4" fill="#ffffff" opacity="0.8"/><circle cx="495" cy="53" r="3" fill="#ffffff" opacity="0.5"/><circle cx="623" cy="216" r="3" fill="#ffffff" opacity="0.65"/><circle cx="874" cy="150" r="6" fill="#ffffff" opacity="0.5"/><circle cx="468" cy="390" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1087" cy="252" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1085" cy="310" r="5" fill="#ffffff" opacity="0.65"/><circle cx="990" cy="517" r="6" fill="#ffffff" opacity="0.65"/><circle cx="613" cy="336" r="3" fill="#ffffff" opacity="0.8"/><circle cx="103" cy="114" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1046" cy="471" r="4" fill="#ffffff" opacity="0.65"/><path d="M708 90 L714 106 L730 112 L714 118 L708 134 L702 118 L686 112 L702 106 Z" fill="#ffffff" opacity="0.55"/><path d="M413 417 L417 427 L427 431 L417 435 L413 445 L409 435 L399 431 L409 427 Z" fill="#ffffff" opacity="0.55"/><path d="M863 135 L868 148 L881 153 L868 158 L863 171 L858 158 L845 153 L858 148 Z" fill="#ffffff" opacity="0.7"/><path d="M925 352 L931 368 L947 374 L931 380 L925 396 L919 380 L903 374 L919 368 Z" fill="#ffffff" opacity="0.7"/><path d="M826 197 L830 207 L840 211 L830 215 L826 225 L822 215 L812 211 L822 207 Z" fill="#ffffff" opacity="0.55"/><path d="M865 295 L870 308 L883 313 L870 318 L865 331 L860 318 L847 313 L860 308 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🎓</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">子犬のしつけ、はじめの一歩ガイド</text>
+</svg>

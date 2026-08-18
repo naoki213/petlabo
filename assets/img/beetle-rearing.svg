@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#8d6e63"/><stop offset="1" stop-color="#9ccc65"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M783 101 L787 110 L796 114 L787 118 L783 127 L779 118 L770 114 L779 110 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M841 194 L845 206 L857 210 L845 214 L841 226 L837 214 L825 210 L837 206 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M116 77 L119 86 L128 89 L119 92 L116 101 L113 92 L104 89 L113 86 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M189 208 L193 218 L203 222 L193 226 L189 236 L185 226 L175 222 L185 218 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M869 115 L873 126 L884 130 L873 134 L869 145 L865 134 L854 130 L865 126 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M717 103 L722 116 L735 121 L722 126 L717 139 L712 126 L699 121 L712 116 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M237 210 L241 220 L251 224 L241 228 L237 238 L233 228 L223 224 L233 220 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M1142 203 L1144 209 L1150 211 L1144 213 L1142 219 L1140 213 L1134 211 L1140 209 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M1200 105 L1202 111 L1208 113 L1202 115 L1200 121 L1198 115 L1192 113 L1198 111 Z" fill="#ffffff" opacity="0.9"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">🪲</text>
+</svg>

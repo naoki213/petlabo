@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="多頭飼いグッズ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#d0c4ff"/>
+<stop offset="1" stop-color="#ffe0c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="41" cy="419" r="4" fill="#ffffff" opacity="0.5"/><circle cx="648" cy="41" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1019" cy="524" r="3" fill="#ffffff" opacity="0.8"/><circle cx="130" cy="276" r="4" fill="#ffffff" opacity="0.5"/><circle cx="946" cy="293" r="5" fill="#ffffff" opacity="0.65"/><circle cx="455" cy="254" r="5" fill="#ffffff" opacity="0.5"/><circle cx="714" cy="575" r="6" fill="#ffffff" opacity="0.65"/><circle cx="279" cy="455" r="5" fill="#ffffff" opacity="0.65"/><circle cx="565" cy="362" r="3" fill="#ffffff" opacity="0.8"/><circle cx="179" cy="576" r="3" fill="#ffffff" opacity="0.65"/><circle cx="567" cy="327" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1163" cy="394" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1090" cy="489" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1143" cy="392" r="4" fill="#ffffff" opacity="0.65"/><path d="M1054 446 L1060 462 L1076 468 L1060 474 L1054 490 L1048 474 L1032 468 L1048 462 Z" fill="#ffffff" opacity="0.7"/><path d="M141 80 L145 90 L155 94 L145 98 L141 108 L137 98 L127 94 L137 90 Z" fill="#ffffff" opacity="0.7"/><path d="M557 165 L563 181 L579 187 L563 193 L557 209 L551 193 L535 187 L551 181 Z" fill="#ffffff" opacity="0.55"/><path d="M64 176 L68 186 L78 190 L68 194 L64 204 L60 194 L50 190 L60 186 Z" fill="#ffffff" opacity="0.55"/><path d="M589 392 L595 408 L611 414 L595 420 L589 436 L583 420 L567 414 L583 408 Z" fill="#ffffff" opacity="0.55"/><path d="M910 536 L914 546 L924 550 L914 554 L910 564 L906 554 L896 550 L906 546 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐾</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">多頭飼いグッズ比較</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="キャットタワー比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6e8"/>
+<stop offset="1" stop-color="#e0d9ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1118" cy="472" r="5" fill="#ffffff" opacity="0.8"/><circle cx="847" cy="330" r="6" fill="#ffffff" opacity="0.8"/><circle cx="979" cy="375" r="3" fill="#ffffff" opacity="0.65"/><circle cx="608" cy="478" r="3" fill="#ffffff" opacity="0.65"/><circle cx="422" cy="60" r="4" fill="#ffffff" opacity="0.65"/><circle cx="658" cy="399" r="4" fill="#ffffff" opacity="0.5"/><circle cx="842" cy="260" r="3" fill="#ffffff" opacity="0.65"/><circle cx="553" cy="466" r="5" fill="#ffffff" opacity="0.8"/><circle cx="224" cy="286" r="6" fill="#ffffff" opacity="0.8"/><circle cx="1008" cy="86" r="5" fill="#ffffff" opacity="0.5"/><circle cx="994" cy="333" r="3" fill="#ffffff" opacity="0.65"/><circle cx="617" cy="39" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1024" cy="275" r="3" fill="#ffffff" opacity="0.65"/><circle cx="61" cy="361" r="3" fill="#ffffff" opacity="0.5"/><path d="M1047 447 L1053 463 L1069 469 L1053 475 L1047 491 L1041 475 L1025 469 L1041 463 Z" fill="#ffffff" opacity="0.55"/><path d="M999 513 L1003 523 L1013 527 L1003 531 L999 541 L995 531 L985 527 L995 523 Z" fill="#ffffff" opacity="0.55"/><path d="M550 243 L556 259 L572 265 L556 271 L550 287 L544 271 L528 265 L544 259 Z" fill="#ffffff" opacity="0.55"/><path d="M290 240 L294 250 L304 254 L294 258 L290 268 L286 258 L276 254 L286 250 Z" fill="#ffffff" opacity="0.55"/><path d="M522 141 L526 151 L536 155 L526 159 L522 169 L518 159 L508 155 L518 151 Z" fill="#ffffff" opacity="0.55"/><path d="M129 472 L135 488 L151 494 L135 500 L129 516 L123 500 L107 494 L123 488 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🏰</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">キャットタワー比較</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="一人旅の持ち物ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4ecff"/>
+<stop offset="1" stop-color="#ffe0c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="259" cy="529" r="4" fill="#ffffff" opacity="0.8"/><circle cx="388" cy="224" r="3" fill="#ffffff" opacity="0.65"/><circle cx="267" cy="440" r="6" fill="#ffffff" opacity="0.8"/><circle cx="435" cy="512" r="5" fill="#ffffff" opacity="0.65"/><circle cx="372" cy="488" r="3" fill="#ffffff" opacity="0.65"/><circle cx="781" cy="410" r="6" fill="#ffffff" opacity="0.8"/><circle cx="578" cy="409" r="3" fill="#ffffff" opacity="0.8"/><circle cx="138" cy="548" r="5" fill="#ffffff" opacity="0.65"/><circle cx="758" cy="248" r="5" fill="#ffffff" opacity="0.5"/><circle cx="524" cy="408" r="3" fill="#ffffff" opacity="0.5"/><circle cx="619" cy="394" r="5" fill="#ffffff" opacity="0.8"/><circle cx="874" cy="103" r="5" fill="#ffffff" opacity="0.65"/><circle cx="44" cy="510" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1128" cy="532" r="6" fill="#ffffff" opacity="0.5"/><path d="M514 522 L518 532 L528 536 L518 540 L514 550 L510 540 L500 536 L510 532 Z" fill="#ffffff" opacity="0.7"/><path d="M99 404 L103 414 L113 418 L103 422 L99 432 L95 422 L85 418 L95 414 Z" fill="#ffffff" opacity="0.7"/><path d="M437 368 L441 378 L451 382 L441 386 L437 396 L433 386 L423 382 L433 378 Z" fill="#ffffff" opacity="0.55"/><path d="M214 67 L220 83 L236 89 L220 95 L214 111 L208 95 L192 89 L208 83 Z" fill="#ffffff" opacity="0.55"/><path d="M394 401 L400 417 L416 423 L400 429 L394 445 L388 429 L372 423 L388 417 Z" fill="#ffffff" opacity="0.7"/><path d="M529 69 L535 85 L551 91 L535 97 L529 113 L523 97 L507 91 L523 85 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🎒</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">一人旅の持ち物ガイド</text>
+</svg>

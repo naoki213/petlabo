@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#29b6f6"/><stop offset="1" stop-color="#26c6da"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M1052 267 L1057 280 L1070 285 L1057 290 L1052 303 L1047 290 L1034 285 L1047 280 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M830 128 L834 139 L845 143 L834 147 L830 158 L826 147 L815 143 L826 139 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M1141 191 L1145 200 L1154 204 L1145 208 L1141 217 L1137 208 L1128 204 L1137 200 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M1048 269 L1052 278 L1061 282 L1052 286 L1048 295 L1044 286 L1035 282 L1044 278 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1112 139 L1116 150 L1127 154 L1116 158 L1112 169 L1108 158 L1097 154 L1108 150 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M263 134 L267 145 L278 149 L267 153 L263 164 L259 153 L248 149 L259 145 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M909 171 L914 184 L927 189 L914 194 L909 207 L904 194 L891 189 L904 184 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M995 158 L999 167 L1008 171 L999 175 L995 184 L991 175 L982 171 L991 167 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1153 207 L1158 219 L1170 224 L1158 229 L1153 241 L1148 229 L1136 224 L1148 219 Z" fill="#ffffff" opacity="0.9"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">🐠</text>
+</svg>

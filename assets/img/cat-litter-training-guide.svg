@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="猫のトイレトレーニング、見直しガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e8ff"/>
+<stop offset="1" stop-color="#e0c4ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="345" cy="246" r="4" fill="#ffffff" opacity="0.5"/><circle cx="941" cy="359" r="4" fill="#ffffff" opacity="0.65"/><circle cx="708" cy="198" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1108" cy="277" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1163" cy="192" r="6" fill="#ffffff" opacity="0.8"/><circle cx="473" cy="358" r="3" fill="#ffffff" opacity="0.8"/><circle cx="1068" cy="439" r="3" fill="#ffffff" opacity="0.5"/><circle cx="735" cy="131" r="4" fill="#ffffff" opacity="0.65"/><circle cx="887" cy="278" r="6" fill="#ffffff" opacity="0.5"/><circle cx="802" cy="322" r="3" fill="#ffffff" opacity="0.65"/><circle cx="778" cy="140" r="6" fill="#ffffff" opacity="0.5"/><circle cx="600" cy="77" r="5" fill="#ffffff" opacity="0.8"/><circle cx="518" cy="261" r="3" fill="#ffffff" opacity="0.65"/><circle cx="398" cy="474" r="6" fill="#ffffff" opacity="0.5"/><path d="M172 314 L177 327 L190 332 L177 337 L172 350 L167 337 L154 332 L167 327 Z" fill="#ffffff" opacity="0.7"/><path d="M568 49 L572 59 L582 63 L572 67 L568 77 L564 67 L554 63 L564 59 Z" fill="#ffffff" opacity="0.7"/><path d="M238 63 L242 73 L252 77 L242 81 L238 91 L234 81 L224 77 L234 73 Z" fill="#ffffff" opacity="0.55"/><path d="M206 52 L211 65 L224 70 L211 75 L206 88 L201 75 L188 70 L201 65 Z" fill="#ffffff" opacity="0.7"/><path d="M343 51 L348 64 L361 69 L348 74 L343 87 L338 74 L325 69 L338 64 Z" fill="#ffffff" opacity="0.55"/><path d="M815 228 L819 238 L829 242 L819 246 L815 256 L811 246 L801 242 L811 238 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🚽</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">猫のトイレトレーニング、見直しガイド</text>
+</svg>

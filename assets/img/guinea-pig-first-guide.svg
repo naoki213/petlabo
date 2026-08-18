@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのモルモット、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe9c4"/>
+<stop offset="1" stop-color="#ffd0d8"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="378" cy="105" r="6" fill="#ffffff" opacity="0.65"/><circle cx="626" cy="268" r="4" fill="#ffffff" opacity="0.8"/><circle cx="617" cy="393" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1012" cy="542" r="3" fill="#ffffff" opacity="0.5"/><circle cx="382" cy="242" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1093" cy="487" r="3" fill="#ffffff" opacity="0.65"/><circle cx="247" cy="164" r="3" fill="#ffffff" opacity="0.65"/><circle cx="707" cy="197" r="4" fill="#ffffff" opacity="0.8"/><circle cx="760" cy="152" r="3" fill="#ffffff" opacity="0.5"/><circle cx="283" cy="315" r="4" fill="#ffffff" opacity="0.5"/><circle cx="639" cy="163" r="4" fill="#ffffff" opacity="0.5"/><circle cx="182" cy="412" r="3" fill="#ffffff" opacity="0.8"/><circle cx="981" cy="561" r="4" fill="#ffffff" opacity="0.5"/><circle cx="991" cy="159" r="5" fill="#ffffff" opacity="0.5"/><path d="M860 309 L866 325 L882 331 L866 337 L860 353 L854 337 L838 331 L854 325 Z" fill="#ffffff" opacity="0.7"/><path d="M473 210 L479 226 L495 232 L479 238 L473 254 L467 238 L451 232 L467 226 Z" fill="#ffffff" opacity="0.55"/><path d="M710 419 L715 432 L728 437 L715 442 L710 455 L705 442 L692 437 L705 432 Z" fill="#ffffff" opacity="0.7"/><path d="M823 324 L827 334 L837 338 L827 342 L823 352 L819 342 L809 338 L819 334 Z" fill="#ffffff" opacity="0.7"/><path d="M623 457 L627 467 L637 471 L627 475 L623 485 L619 475 L609 471 L619 467 Z" fill="#ffffff" opacity="0.7"/><path d="M964 268 L968 278 L978 282 L968 286 L964 296 L960 286 L950 282 L960 278 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐹</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのモルモット、お迎え準備ガイド</text>
+</svg>

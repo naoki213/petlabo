@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのヘビ、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e0d0"/>
+<stop offset="1" stop-color="#e8d9c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="546" cy="385" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1122" cy="593" r="4" fill="#ffffff" opacity="0.8"/><circle cx="804" cy="550" r="3" fill="#ffffff" opacity="0.5"/><circle cx="955" cy="431" r="5" fill="#ffffff" opacity="0.5"/><circle cx="237" cy="481" r="5" fill="#ffffff" opacity="0.5"/><circle cx="228" cy="401" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1063" cy="76" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1169" cy="495" r="6" fill="#ffffff" opacity="0.65"/><circle cx="284" cy="569" r="5" fill="#ffffff" opacity="0.65"/><circle cx="689" cy="341" r="4" fill="#ffffff" opacity="0.65"/><circle cx="34" cy="345" r="6" fill="#ffffff" opacity="0.65"/><circle cx="976" cy="437" r="3" fill="#ffffff" opacity="0.5"/><circle cx="689" cy="57" r="4" fill="#ffffff" opacity="0.5"/><circle cx="383" cy="312" r="3" fill="#ffffff" opacity="0.65"/><path d="M885 481 L891 497 L907 503 L891 509 L885 525 L879 509 L863 503 L879 497 Z" fill="#ffffff" opacity="0.55"/><path d="M779 395 L784 408 L797 413 L784 418 L779 431 L774 418 L761 413 L774 408 Z" fill="#ffffff" opacity="0.7"/><path d="M316 240 L321 253 L334 258 L321 263 L316 276 L311 263 L298 258 L311 253 Z" fill="#ffffff" opacity="0.55"/><path d="M400 493 L404 503 L414 507 L404 511 L400 521 L396 511 L386 507 L396 503 Z" fill="#ffffff" opacity="0.55"/><path d="M599 540 L603 550 L613 554 L603 558 L599 568 L595 558 L585 554 L595 550 Z" fill="#ffffff" opacity="0.55"/><path d="M678 513 L682 523 L692 527 L682 531 L678 541 L674 531 L664 527 L674 523 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐍</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのヘビ、お迎え準備ガイド</text>
+</svg>

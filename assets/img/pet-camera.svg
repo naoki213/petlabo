@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#7986cb"/><stop offset="1" stop-color="#4dd0e1"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M1188 264 L1190 270 L1196 272 L1190 274 L1188 280 L1186 274 L1180 272 L1186 270 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M1136 268 L1138 274 L1144 276 L1138 278 L1136 284 L1134 278 L1128 276 L1134 274 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M857 66 L859 72 L865 74 L859 76 L857 82 L855 76 L849 74 L855 72 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M229 81 L232 87 L238 90 L232 93 L229 99 L226 93 L220 90 L226 87 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M538 135 L542 144 L551 148 L542 152 L538 161 L534 152 L525 148 L534 144 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1113 231 L1116 239 L1124 242 L1116 245 L1113 253 L1110 245 L1102 242 L1110 239 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M545 134 L548 143 L557 146 L548 149 L545 158 L542 149 L533 146 L542 143 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M1021 109 L1025 121 L1037 125 L1025 129 L1021 141 L1017 129 L1005 125 L1017 121 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M630 62 L635 74 L647 79 L635 84 L630 96 L625 84 L613 79 L625 74 Z" fill="#ffffff" opacity="0.7"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">📷</text>
+</svg>

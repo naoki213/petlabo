@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="2,000円以下の神アイテム15選">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#fff3c4"/>
+<stop offset="1" stop-color="#c9f0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="248" cy="176" r="6" fill="#ffffff" opacity="0.5"/><circle cx="520" cy="571" r="4" fill="#ffffff" opacity="0.8"/><circle cx="764" cy="512" r="4" fill="#ffffff" opacity="0.5"/><circle cx="66" cy="149" r="4" fill="#ffffff" opacity="0.8"/><circle cx="156" cy="199" r="4" fill="#ffffff" opacity="0.8"/><circle cx="896" cy="475" r="3" fill="#ffffff" opacity="0.8"/><circle cx="487" cy="582" r="5" fill="#ffffff" opacity="0.65"/><circle cx="240" cy="96" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1049" cy="64" r="6" fill="#ffffff" opacity="0.8"/><circle cx="459" cy="292" r="4" fill="#ffffff" opacity="0.5"/><circle cx="963" cy="416" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1083" cy="339" r="5" fill="#ffffff" opacity="0.8"/><circle cx="302" cy="291" r="5" fill="#ffffff" opacity="0.65"/><circle cx="34" cy="153" r="4" fill="#ffffff" opacity="0.65"/><path d="M1025 156 L1031 172 L1047 178 L1031 184 L1025 200 L1019 184 L1003 178 L1019 172 Z" fill="#ffffff" opacity="0.55"/><path d="M591 242 L595 252 L605 256 L595 260 L591 270 L587 260 L577 256 L587 252 Z" fill="#ffffff" opacity="0.7"/><path d="M842 273 L847 286 L860 291 L847 296 L842 309 L837 296 L824 291 L837 286 Z" fill="#ffffff" opacity="0.7"/><path d="M288 197 L294 213 L310 219 L294 225 L288 241 L282 225 L266 219 L282 213 Z" fill="#ffffff" opacity="0.7"/><path d="M783 55 L787 65 L797 69 L787 73 L783 83 L779 73 L769 69 L779 65 Z" fill="#ffffff" opacity="0.7"/><path d="M191 490 L195 500 L205 504 L195 508 L191 518 L187 508 L177 504 L187 500 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">💰</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">2,000円以下の神アイテム15選</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="猫トイレ用品比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e8ff"/>
+<stop offset="1" stop-color="#e0c4ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="978" cy="99" r="5" fill="#ffffff" opacity="0.65"/><circle cx="79" cy="355" r="4" fill="#ffffff" opacity="0.8"/><circle cx="755" cy="417" r="3" fill="#ffffff" opacity="0.8"/><circle cx="918" cy="599" r="3" fill="#ffffff" opacity="0.5"/><circle cx="388" cy="260" r="4" fill="#ffffff" opacity="0.8"/><circle cx="879" cy="86" r="4" fill="#ffffff" opacity="0.8"/><circle cx="510" cy="439" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1126" cy="229" r="3" fill="#ffffff" opacity="0.65"/><circle cx="130" cy="577" r="4" fill="#ffffff" opacity="0.65"/><circle cx="782" cy="387" r="6" fill="#ffffff" opacity="0.5"/><circle cx="169" cy="45" r="4" fill="#ffffff" opacity="0.65"/><circle cx="194" cy="357" r="6" fill="#ffffff" opacity="0.5"/><circle cx="259" cy="190" r="6" fill="#ffffff" opacity="0.5"/><circle cx="801" cy="161" r="6" fill="#ffffff" opacity="0.65"/><path d="M721 377 L725 387 L735 391 L725 395 L721 405 L717 395 L707 391 L717 387 Z" fill="#ffffff" opacity="0.55"/><path d="M913 304 L918 317 L931 322 L918 327 L913 340 L908 327 L895 322 L908 317 Z" fill="#ffffff" opacity="0.7"/><path d="M490 436 L496 452 L512 458 L496 464 L490 480 L484 464 L468 458 L484 452 Z" fill="#ffffff" opacity="0.55"/><path d="M111 377 L116 390 L129 395 L116 400 L111 413 L106 400 L93 395 L106 390 Z" fill="#ffffff" opacity="0.7"/><path d="M549 344 L555 360 L571 366 L555 372 L549 388 L543 372 L527 366 L543 360 Z" fill="#ffffff" opacity="0.55"/><path d="M1127 336 L1132 349 L1145 354 L1132 359 L1127 372 L1122 359 L1109 354 L1122 349 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🚽</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">猫トイレ用品比較</text>
+</svg>

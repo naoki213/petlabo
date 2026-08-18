@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4fc3f7"/><stop offset="1" stop-color="#aed581"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M918 49 L922 60 L933 64 L922 68 L918 79 L914 68 L903 64 L914 60 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M870 164 L874 174 L884 178 L874 182 L870 192 L866 182 L856 178 L866 174 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M297 216 L300 225 L309 228 L300 231 L297 240 L294 231 L285 228 L294 225 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1032 191 L1035 198 L1042 201 L1035 204 L1032 211 L1029 204 L1022 201 L1029 198 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M1093 217 L1098 230 L1111 235 L1098 240 L1093 253 L1088 240 L1075 235 L1088 230 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1033 222 L1036 229 L1043 232 L1036 235 L1033 242 L1030 235 L1023 232 L1030 229 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M484 130 L488 142 L500 146 L488 150 L484 162 L480 150 L468 146 L480 142 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M744 114 L748 124 L758 128 L748 132 L744 142 L740 132 L730 128 L740 124 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M386 247 L389 254 L396 257 L389 260 L386 267 L383 260 L376 257 L383 254 Z" fill="#ffffff" opacity="0.7"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">🦜</text>
+</svg>

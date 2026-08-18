@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="自宅の熱中症対策ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0c4"/>
+<stop offset="1" stop-color="#c4e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="320" cy="470" r="6" fill="#ffffff" opacity="0.65"/><circle cx="619" cy="266" r="5" fill="#ffffff" opacity="0.65"/><circle cx="230" cy="382" r="3" fill="#ffffff" opacity="0.5"/><circle cx="452" cy="34" r="4" fill="#ffffff" opacity="0.65"/><circle cx="41" cy="144" r="3" fill="#ffffff" opacity="0.65"/><circle cx="599" cy="48" r="5" fill="#ffffff" opacity="0.8"/><circle cx="194" cy="305" r="4" fill="#ffffff" opacity="0.65"/><circle cx="404" cy="115" r="5" fill="#ffffff" opacity="0.8"/><circle cx="824" cy="340" r="3" fill="#ffffff" opacity="0.5"/><circle cx="902" cy="287" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1078" cy="149" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1005" cy="354" r="6" fill="#ffffff" opacity="0.5"/><circle cx="580" cy="382" r="6" fill="#ffffff" opacity="0.65"/><circle cx="412" cy="346" r="3" fill="#ffffff" opacity="0.8"/><path d="M1115 58 L1119 68 L1129 72 L1119 76 L1115 86 L1111 76 L1101 72 L1111 68 Z" fill="#ffffff" opacity="0.7"/><path d="M469 386 L475 402 L491 408 L475 414 L469 430 L463 414 L447 408 L463 402 Z" fill="#ffffff" opacity="0.7"/><path d="M939 538 L945 554 L961 560 L945 566 L939 582 L933 566 L917 560 L933 554 Z" fill="#ffffff" opacity="0.55"/><path d="M82 370 L87 383 L100 388 L87 393 L82 406 L77 393 L64 388 L77 383 Z" fill="#ffffff" opacity="0.7"/><path d="M297 390 L301 400 L311 404 L301 408 L297 418 L293 408 L283 404 L293 400 Z" fill="#ffffff" opacity="0.7"/><path d="M382 136 L388 152 L404 158 L388 164 L382 180 L376 164 L360 158 L376 152 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🏠</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">自宅の熱中症対策ガイド</text>
+</svg>

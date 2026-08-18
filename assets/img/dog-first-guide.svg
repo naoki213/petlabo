@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめての犬、お迎え準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe6c9"/>
+<stop offset="1" stop-color="#c9e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1042" cy="429" r="3" fill="#ffffff" opacity="0.8"/><circle cx="856" cy="306" r="4" fill="#ffffff" opacity="0.5"/><circle cx="951" cy="195" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1038" cy="493" r="4" fill="#ffffff" opacity="0.65"/><circle cx="555" cy="482" r="4" fill="#ffffff" opacity="0.65"/><circle cx="799" cy="389" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1026" cy="232" r="4" fill="#ffffff" opacity="0.65"/><circle cx="188" cy="98" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1029" cy="418" r="4" fill="#ffffff" opacity="0.5"/><circle cx="692" cy="240" r="6" fill="#ffffff" opacity="0.8"/><circle cx="603" cy="225" r="5" fill="#ffffff" opacity="0.5"/><circle cx="270" cy="528" r="6" fill="#ffffff" opacity="0.65"/><circle cx="779" cy="473" r="3" fill="#ffffff" opacity="0.65"/><circle cx="38" cy="556" r="3" fill="#ffffff" opacity="0.5"/><path d="M214 256 L218 266 L228 270 L218 274 L214 284 L210 274 L200 270 L210 266 Z" fill="#ffffff" opacity="0.7"/><path d="M397 319 L402 332 L415 337 L402 342 L397 355 L392 342 L379 337 L392 332 Z" fill="#ffffff" opacity="0.55"/><path d="M143 271 L147 281 L157 285 L147 289 L143 299 L139 289 L129 285 L139 281 Z" fill="#ffffff" opacity="0.7"/><path d="M807 433 L812 446 L825 451 L812 456 L807 469 L802 456 L789 451 L802 446 Z" fill="#ffffff" opacity="0.7"/><path d="M925 81 L930 94 L943 99 L930 104 L925 117 L920 104 L907 99 L920 94 Z" fill="#ffffff" opacity="0.7"/><path d="M138 149 L142 159 L152 163 L142 167 L138 177 L134 167 L124 163 L134 159 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐶</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめての犬、お迎え準備ガイド</text>
+</svg>

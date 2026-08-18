@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="初めて猫を迎える準備ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6e8"/>
+<stop offset="1" stop-color="#c9e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="257" cy="135" r="5" fill="#ffffff" opacity="0.65"/><circle cx="185" cy="425" r="4" fill="#ffffff" opacity="0.65"/><circle cx="887" cy="190" r="3" fill="#ffffff" opacity="0.5"/><circle cx="914" cy="333" r="3" fill="#ffffff" opacity="0.5"/><circle cx="294" cy="150" r="3" fill="#ffffff" opacity="0.5"/><circle cx="327" cy="309" r="3" fill="#ffffff" opacity="0.65"/><circle cx="548" cy="113" r="6" fill="#ffffff" opacity="0.65"/><circle cx="123" cy="143" r="3" fill="#ffffff" opacity="0.8"/><circle cx="413" cy="449" r="5" fill="#ffffff" opacity="0.5"/><circle cx="906" cy="92" r="6" fill="#ffffff" opacity="0.8"/><circle cx="349" cy="165" r="5" fill="#ffffff" opacity="0.8"/><circle cx="61" cy="269" r="6" fill="#ffffff" opacity="0.5"/><circle cx="722" cy="387" r="4" fill="#ffffff" opacity="0.5"/><circle cx="724" cy="32" r="6" fill="#ffffff" opacity="0.5"/><path d="M140 437 L145 450 L158 455 L145 460 L140 473 L135 460 L122 455 L135 450 Z" fill="#ffffff" opacity="0.7"/><path d="M914 373 L919 386 L932 391 L919 396 L914 409 L909 396 L896 391 L909 386 Z" fill="#ffffff" opacity="0.55"/><path d="M76 64 L81 77 L94 82 L81 87 L76 100 L71 87 L58 82 L71 77 Z" fill="#ffffff" opacity="0.55"/><path d="M811 494 L815 504 L825 508 L815 512 L811 522 L807 512 L797 508 L807 504 Z" fill="#ffffff" opacity="0.7"/><path d="M407 52 L412 65 L425 70 L412 75 L407 88 L402 75 L389 70 L402 65 Z" fill="#ffffff" opacity="0.7"/><path d="M401 197 L407 213 L423 219 L407 225 L401 241 L395 225 L379 219 L395 213 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐱</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめての猫、お迎え準備ガイド</text>
+</svg>

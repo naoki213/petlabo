@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#aed581"/><stop offset="1" stop-color="#dce775"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M947 146 L950 153 L957 156 L950 159 L947 166 L944 159 L937 156 L944 153 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M509 183 L513 194 L524 198 L513 202 L509 213 L505 202 L494 198 L505 194 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M1001 149 L1005 158 L1014 162 L1005 166 L1001 175 L997 166 L988 162 L997 158 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M217 199 L221 211 L233 215 L221 219 L217 231 L213 219 L201 215 L213 211 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M293 174 L296 180 L302 183 L296 186 L293 192 L290 186 L284 183 L290 180 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M656 111 L661 124 L674 129 L661 134 L656 147 L651 134 L638 129 L651 124 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M611 97 L614 104 L621 107 L614 110 L611 117 L608 110 L601 107 L608 104 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M702 109 L706 120 L717 124 L706 128 L702 139 L698 128 L687 124 L698 120 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M576 106 L579 112 L585 115 L579 118 L576 124 L573 118 L567 115 L573 112 Z" fill="#ffffff" opacity="0.5"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">🌾</text>
+</svg>

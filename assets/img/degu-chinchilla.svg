@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 540">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#90a4ae"/><stop offset="1" stop-color="#b39ddb"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.25" r="0.8">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1260" height="540" fill="url(#bg)"/>
+<rect width="1260" height="540" fill="url(#glow)"/>
+<circle cx="1050" cy="110" r="70" fill="#ffffff" opacity="0.25"/>
+<circle cx="150" cy="430" r="110" fill="#ffffff" opacity="0.12"/>
+<circle cx="1180" cy="470" r="90" fill="#ffffff" opacity="0.10"/>
+<path d="M0 440 Q315 380 630 430 T1260 420 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.18"/>
+<path d="M0 480 Q420 430 840 475 T1260 465 L1260 540 L0 540 Z" fill="#ffffff" opacity="0.22"/>
+<path d="M969 178 L973 188 L983 192 L973 196 L969 206 L965 196 L955 192 L965 188 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M962 126 L965 135 L974 138 L965 141 L962 150 L959 141 L950 138 L959 135 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M716 93 L719 102 L728 105 L719 108 L716 117 L713 108 L704 105 L713 102 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1011 41 L1015 53 L1027 57 L1015 61 L1011 73 L1007 61 L995 57 L1007 53 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M781 163 L786 176 L799 181 L786 186 L781 199 L776 186 L763 181 L776 176 Z" fill="#ffffff" opacity="0.7"/>
+<path d="M885 264 L888 272 L896 275 L888 278 L885 286 L882 278 L874 275 L882 272 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M1129 183 L1133 195 L1145 199 L1133 203 L1129 215 L1125 203 L1113 199 L1125 195 Z" fill="#ffffff" opacity="0.5"/>
+<path d="M164 252 L169 264 L181 269 L169 274 L164 286 L159 274 L147 269 L159 264 Z" fill="#ffffff" opacity="0.9"/>
+<path d="M779 107 L783 116 L792 120 L783 124 L779 133 L775 124 L766 120 L775 116 Z" fill="#ffffff" opacity="0.9"/>
+<text x="630" y="330" font-size="230" text-anchor="middle">🐭</text>
+</svg>

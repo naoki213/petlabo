@@ -110,6 +110,25 @@
     });
   }
 
+  /* ---------- tap-to-expand product detail ---------- */
+  document.querySelectorAll(".item-card.has-detail .item-card-head").forEach(function (head) {
+    head.setAttribute("role", "button");
+    head.setAttribute("tabindex", "0");
+    head.setAttribute("aria-expanded", "false");
+    function toggle() {
+      var card = head.closest(".item-card");
+      var open = card.classList.toggle("is-open");
+      head.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+    head.addEventListener("click", toggle);
+    head.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        toggle();
+      }
+    });
+  });
+
   /* ---------- current year in footer ---------- */
   document.querySelectorAll("[data-current-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();

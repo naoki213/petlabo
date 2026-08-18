@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="シニアペットとの暮らし方ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#e0d9ff"/>
+<stop offset="1" stop-color="#ffe6c9"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1103" cy="450" r="5" fill="#ffffff" opacity="0.8"/><circle cx="304" cy="439" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1147" cy="594" r="6" fill="#ffffff" opacity="0.65"/><circle cx="149" cy="422" r="4" fill="#ffffff" opacity="0.5"/><circle cx="413" cy="583" r="4" fill="#ffffff" opacity="0.65"/><circle cx="453" cy="226" r="6" fill="#ffffff" opacity="0.8"/><circle cx="307" cy="122" r="4" fill="#ffffff" opacity="0.8"/><circle cx="1009" cy="157" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1040" cy="203" r="3" fill="#ffffff" opacity="0.8"/><circle cx="641" cy="493" r="3" fill="#ffffff" opacity="0.8"/><circle cx="680" cy="510" r="4" fill="#ffffff" opacity="0.65"/><circle cx="961" cy="166" r="6" fill="#ffffff" opacity="0.8"/><circle cx="136" cy="183" r="3" fill="#ffffff" opacity="0.5"/><circle cx="133" cy="514" r="3" fill="#ffffff" opacity="0.65"/><path d="M322 426 L326 436 L336 440 L326 444 L322 454 L318 444 L308 440 L318 436 Z" fill="#ffffff" opacity="0.7"/><path d="M936 293 L942 309 L958 315 L942 321 L936 337 L930 321 L914 315 L930 309 Z" fill="#ffffff" opacity="0.7"/><path d="M752 245 L756 255 L766 259 L756 263 L752 273 L748 263 L738 259 L748 255 Z" fill="#ffffff" opacity="0.55"/><path d="M766 384 L772 400 L788 406 L772 412 L766 428 L760 412 L744 406 L760 400 Z" fill="#ffffff" opacity="0.55"/><path d="M682 187 L688 203 L704 209 L688 215 L682 231 L676 215 L660 209 L676 203 Z" fill="#ffffff" opacity="0.7"/><path d="M1001 80 L1007 96 L1023 102 L1007 108 L1001 124 L995 108 L979 102 L995 96 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐾</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">シニアペットとの暮らし方ガイド</text>
+</svg>

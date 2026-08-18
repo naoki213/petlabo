@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="おうちパン作り初心者ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#fff3c4"/>
+<stop offset="1" stop-color="#ffe0c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1085" cy="361" r="6" fill="#ffffff" opacity="0.5"/><circle cx="594" cy="201" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1106" cy="97" r="5" fill="#ffffff" opacity="0.65"/><circle cx="1014" cy="289" r="4" fill="#ffffff" opacity="0.8"/><circle cx="62" cy="284" r="6" fill="#ffffff" opacity="0.5"/><circle cx="347" cy="149" r="4" fill="#ffffff" opacity="0.65"/><circle cx="712" cy="73" r="3" fill="#ffffff" opacity="0.8"/><circle cx="812" cy="368" r="4" fill="#ffffff" opacity="0.8"/><circle cx="605" cy="439" r="3" fill="#ffffff" opacity="0.65"/><circle cx="280" cy="216" r="5" fill="#ffffff" opacity="0.5"/><circle cx="179" cy="466" r="5" fill="#ffffff" opacity="0.5"/><circle cx="123" cy="158" r="6" fill="#ffffff" opacity="0.5"/><circle cx="68" cy="425" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1077" cy="133" r="6" fill="#ffffff" opacity="0.8"/><path d="M933 251 L937 261 L947 265 L937 269 L933 279 L929 269 L919 265 L929 261 Z" fill="#ffffff" opacity="0.55"/><path d="M1001 398 L1007 414 L1023 420 L1007 426 L1001 442 L995 426 L979 420 L995 414 Z" fill="#ffffff" opacity="0.7"/><path d="M124 260 L128 270 L138 274 L128 278 L124 288 L120 278 L110 274 L120 270 Z" fill="#ffffff" opacity="0.7"/><path d="M546 342 L551 355 L564 360 L551 365 L546 378 L541 365 L528 360 L541 355 Z" fill="#ffffff" opacity="0.55"/><path d="M837 271 L841 281 L851 285 L841 289 L837 299 L833 289 L823 285 L833 281 Z" fill="#ffffff" opacity="0.55"/><path d="M100 411 L104 421 L114 425 L104 429 L100 439 L96 429 L86 425 L96 421 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🍞</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">おうちパン作り初心者ガイド</text>
+</svg>

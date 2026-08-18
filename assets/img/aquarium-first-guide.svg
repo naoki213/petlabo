@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="はじめてのアクアリウム、立ち上げガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c9f0ff"/>
+<stop offset="1" stop-color="#c9e8ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="424" cy="199" r="3" fill="#ffffff" opacity="0.8"/><circle cx="692" cy="222" r="3" fill="#ffffff" opacity="0.5"/><circle cx="777" cy="322" r="4" fill="#ffffff" opacity="0.65"/><circle cx="463" cy="46" r="5" fill="#ffffff" opacity="0.65"/><circle cx="456" cy="579" r="3" fill="#ffffff" opacity="0.8"/><circle cx="416" cy="111" r="5" fill="#ffffff" opacity="0.5"/><circle cx="1069" cy="516" r="6" fill="#ffffff" opacity="0.5"/><circle cx="313" cy="326" r="4" fill="#ffffff" opacity="0.8"/><circle cx="227" cy="413" r="6" fill="#ffffff" opacity="0.5"/><circle cx="350" cy="62" r="6" fill="#ffffff" opacity="0.5"/><circle cx="191" cy="570" r="4" fill="#ffffff" opacity="0.65"/><circle cx="591" cy="124" r="4" fill="#ffffff" opacity="0.65"/><circle cx="548" cy="54" r="6" fill="#ffffff" opacity="0.8"/><circle cx="642" cy="86" r="6" fill="#ffffff" opacity="0.5"/><path d="M705 397 L710 410 L723 415 L710 420 L705 433 L700 420 L687 415 L700 410 Z" fill="#ffffff" opacity="0.55"/><path d="M660 141 L664 151 L674 155 L664 159 L660 169 L656 159 L646 155 L656 151 Z" fill="#ffffff" opacity="0.55"/><path d="M909 222 L913 232 L923 236 L913 240 L909 250 L905 240 L895 236 L905 232 Z" fill="#ffffff" opacity="0.55"/><path d="M571 191 L577 207 L593 213 L577 219 L571 235 L565 219 L549 213 L565 207 Z" fill="#ffffff" opacity="0.55"/><path d="M788 490 L792 500 L802 504 L792 508 L788 518 L784 508 L774 504 L784 500 Z" fill="#ffffff" opacity="0.7"/><path d="M656 408 L660 418 L670 422 L660 426 L656 436 L652 426 L642 422 L652 418 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="260" text-anchor="middle">🐠</text>
+<text x="600" y="540" font-size="44" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">はじめてのアクアリウム、立ち上げガイド</text>
+</svg>
