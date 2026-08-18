@@ -221,8 +221,16 @@ ul{ list-style:none; margin:0; padding:0; }
 /* ---------------------------------- hero ------------------------------ */
 
 .hero{
+  max-width: var(--container);
+  margin: 0 auto;
   padding: clamp(40px, 8vw, 88px) 0 clamp(28px, 5vw, 48px);
   text-align: center;
+  background-image:
+    linear-gradient(color-mix(in srgb, var(--bg) 88%, transparent), color-mix(in srgb, var(--bg) 94%, transparent)),
+    url("../img/photos/hero-flatlay.jpg");
+  background-size: cover;
+  background-position: center 30%;
+  border-radius: var(--radius-lg);
 }
 
 .hero .eyebrow{
