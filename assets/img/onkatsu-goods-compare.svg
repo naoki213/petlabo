@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="温活グッズ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6b8"/>
+<stop offset="1" stop-color="#ffb8c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="600" cy="258" r="5" fill="#ffffff" opacity="0.65"/><circle cx="711" cy="178" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1083" cy="129" r="5" fill="#ffffff" opacity="0.8"/><circle cx="987" cy="391" r="5" fill="#ffffff" opacity="0.65"/><circle cx="99" cy="239" r="6" fill="#ffffff" opacity="0.5"/><circle cx="941" cy="464" r="3" fill="#ffffff" opacity="0.65"/><circle cx="247" cy="357" r="5" fill="#ffffff" opacity="0.65"/><circle cx="799" cy="515" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1040" cy="428" r="4" fill="#ffffff" opacity="0.8"/><circle cx="632" cy="322" r="3" fill="#ffffff" opacity="0.8"/><circle cx="485" cy="296" r="3" fill="#ffffff" opacity="0.5"/><circle cx="223" cy="317" r="6" fill="#ffffff" opacity="0.5"/><circle cx="649" cy="366" r="6" fill="#ffffff" opacity="0.5"/><circle cx="540" cy="165" r="5" fill="#ffffff" opacity="0.5"/><path d="M783 551 L787 561 L797 565 L787 569 L783 579 L779 569 L769 565 L779 561 Z" fill="#ffffff" opacity="0.55"/><path d="M79 548 L84 561 L97 566 L84 571 L79 584 L74 571 L61 566 L74 561 Z" fill="#ffffff" opacity="0.55"/><path d="M1058 533 L1063 546 L1076 551 L1063 556 L1058 569 L1053 556 L1040 551 L1053 546 Z" fill="#ffffff" opacity="0.7"/><path d="M525 515 L530 528 L543 533 L530 538 L525 551 L520 538 L507 533 L520 528 Z" fill="#ffffff" opacity="0.55"/><path d="M314 276 L319 289 L332 294 L319 299 L314 312 L309 299 L296 294 L309 289 Z" fill="#ffffff" opacity="0.7"/><path d="M910 316 L915 329 L928 334 L915 339 L910 352 L905 339 L892 334 L905 329 Z" fill="#ffffff" opacity="0.55"/>
+<text x="600" y="380" font-size="220" text-anchor="middle">🧣</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">温活グッズ比較</text>
+</svg>
