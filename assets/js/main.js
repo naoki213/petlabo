@@ -60,6 +60,25 @@
       searchInput.addEventListener("input", applyFilters);
     }
 
+    function selectCategory(cat) {
+      var target = document.querySelector('[data-filter-chip="' + cat + '"]');
+      if (!target) return;
+      chips.forEach(function (c) { c.classList.remove("is-active"); });
+      target.classList.add("is-active");
+      activeCategory = cat;
+      applyFilters();
+    }
+
+    document.querySelectorAll("[data-cat-link]").forEach(function (link) {
+      link.addEventListener("click", function () {
+        selectCategory(link.getAttribute("data-cat-link"));
+      });
+    });
+
+    if (location.hash) {
+      selectCategory(location.hash.slice(1));
+    }
+
     applyFilters();
   }
 
