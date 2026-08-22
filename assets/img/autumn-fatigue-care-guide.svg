@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="秋バテ対策ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffd6b8"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="49" cy="564" r="4" fill="#ffffff" opacity="0.8"/><circle cx="846" cy="127" r="3" fill="#ffffff" opacity="0.8"/><circle cx="128" cy="350" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1005" cy="583" r="6" fill="#ffffff" opacity="0.8"/><circle cx="441" cy="64" r="4" fill="#ffffff" opacity="0.65"/><circle cx="758" cy="352" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1077" cy="524" r="6" fill="#ffffff" opacity="0.8"/><circle cx="431" cy="168" r="4" fill="#ffffff" opacity="0.5"/><circle cx="373" cy="306" r="5" fill="#ffffff" opacity="0.5"/><circle cx="600" cy="431" r="4" fill="#ffffff" opacity="0.5"/><circle cx="890" cy="578" r="3" fill="#ffffff" opacity="0.8"/><circle cx="758" cy="172" r="3" fill="#ffffff" opacity="0.8"/><circle cx="803" cy="98" r="6" fill="#ffffff" opacity="0.5"/><circle cx="816" cy="246" r="4" fill="#ffffff" opacity="0.65"/><path d="M316 394 L321 407 L334 412 L321 417 L316 430 L311 417 L298 412 L311 407 Z" fill="#ffffff" opacity="0.7"/><path d="M679 501 L683 511 L693 515 L683 519 L679 529 L675 519 L665 515 L675 511 Z" fill="#ffffff" opacity="0.55"/><path d="M114 92 L118 102 L128 106 L118 110 L114 120 L110 110 L100 106 L110 102 Z" fill="#ffffff" opacity="0.55"/><path d="M1124 276 L1129 289 L1142 294 L1129 299 L1124 312 L1119 299 L1106 294 L1119 289 Z" fill="#ffffff" opacity="0.7"/><path d="M505 524 L510 537 L523 542 L510 547 L505 560 L500 547 L487 542 L500 537 Z" fill="#ffffff" opacity="0.55"/><path d="M390 543 L396 559 L412 565 L396 571 L390 587 L384 571 L368 565 L384 559 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="220" text-anchor="middle">🍂</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">秋バテ対策ガイド</text>
+</svg>
