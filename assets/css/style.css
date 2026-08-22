@@ -7,13 +7,13 @@
 :root{
   --bg: #fbfaf8;
   --bg-elevated: #ffffff;
-  --bg-soft: #f2f0ec;
-  --text: #1a1a1a;
-  --text-muted: #6b6b6b;
-  --border: #e7e4de;
-  --accent: #a8492f;
-  --accent-2: #7c3320;
-  --accent-soft: #f3e6de;
+  --bg-soft: #f0f4f3;
+  --text: #1c2c38;
+  --text-muted: #6b7680;
+  --border: #e2e8e7;
+  --accent: #0194e0;
+  --accent-2: #3fbf78;
+  --accent-soft: #e4f3ee;
   --font-serif: "Shippori Mincho", "Hiragino Mincho ProN", "Yu Mincho", serif;
   --radius-sm: 10px;
   --radius-md: 16px;
