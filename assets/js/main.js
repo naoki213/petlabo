@@ -1,26 +1,6 @@
 (function () {
   "use strict";
 
-  /* ---------- theme toggle ---------- */
-  var THEME_KEY = "note-blog-theme";
-  var root = document.documentElement;
-  var saved = localStorage.getItem(THEME_KEY);
-  if (saved === "dark" || saved === "light") {
-    root.setAttribute("data-theme", saved);
-  }
-
-  document.querySelectorAll("[data-theme-toggle]").forEach(function (btn) {
-    btn.addEventListener("click", function () {
-      var current = root.getAttribute("data-theme");
-      var isDark = current
-        ? current === "dark"
-        : window.matchMedia("(prefers-color-scheme: dark)").matches;
-      var next = isDark ? "light" : "dark";
-      root.setAttribute("data-theme", next);
-      localStorage.setItem(THEME_KEY, next);
-    });
-  });
-
   /* ---------- mobile nav ---------- */
   var navToggle = document.querySelector("[data-nav-toggle]");
   var nav = document.querySelector("[data-main-nav]");
