@@ -17,7 +17,7 @@
 <meta name="twitter:title" content="エラビタ | 選ぶ、迷わないために。">
 <meta name="twitter:description" content="エラビタはテクノロジー・旅・グルメ・ライフスタイル・健康など、ジャンルを問わず「知りたい」を届けるブログメディアです。">
 <meta name="twitter:image" content="https://erabita.jp/assets/img/og-image.jpg">
-<meta name="theme-color" content="#a8492f">
+<meta name="theme-color" content="#0194e0">
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 <link rel="stylesheet" href="assets/css/style.css">
 <script type="application/ld+json">
@@ -40,16 +40,19 @@
 }
 </script>
 </head>
-<body>
+<body class="home">
 
 <header class="site-header">
   <div class="container">
-    <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="erabita.jp" class="logo-img"></a>
+    <a href="index.html" class="logo"><img src="assets/img/logo-white.png" alt="erabita.jp" class="logo-img"></a>
 
     <nav class="main-nav" data-main-nav>
-      <a href="index.html" class="is-active">Home</a>
-      <a href="index.html#articles">Articles</a>
-      <a href="about.html">About</a>
+      <a href="index.html" class="is-active">HOME</a>
+      <a href="index.html#travel" data-cat-link="travel">TRAVEL</a>
+      <a href="index.html#food" data-cat-link="food">GOURMET</a>
+      <a href="index.html#life" data-cat-link="life">LIFE STYLE</a>
+      <a href="index.html#health" data-cat-link="health">HEALTH</a>
+      <a href="index.html#tech" data-cat-link="tech">TECH</a>
     </nav>
 
     <div class="header-actions">
@@ -71,6 +74,72 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
         <input type="text" placeholder="記事を検索する（例：睡眠、京都、コーヒー…）" data-search-input aria-label="記事検索">
       </div>
+    </div>
+  </section>
+
+  <section class="category-showcase container">
+    <span class="pickup-label">PICK UP</span>
+    <div class="cat-grid">
+      <a href="index.html#travel" class="cat-card" data-cat-link="travel" style="background-image:url('assets/img/photos/cat-travel.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l18-8-8 18-2-7-8-3z"/><path d="M11 13l4-4"/></svg></span>
+            <span class="cat-card-en">Travel</span>
+            <span class="cat-card-ja">旅</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+      <a href="index.html#food" class="cat-card" data-cat-link="food" style="background-image:url('assets/img/photos/cat-gourmet.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v6a2 2 0 0 0 2 2v12"/><path d="M9 2v6"/><path d="M11 2v6"/><path d="M17 2c-2.5 0-4 2-4 6 0 3 1.5 4 4 4v10"/></svg></span>
+            <span class="cat-card-en">Gourmet</span>
+            <span class="cat-card-ja">グルメ</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+      <a href="index.html#life" class="cat-card" data-cat-link="life" style="background-image:url('assets/img/photos/cat-lifestyle.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg></span>
+            <span class="cat-card-en">Life Style</span>
+            <span class="cat-card-ja">暮らし</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+      <a href="index.html#health" class="cat-card" data-cat-link="health" style="background-image:url('assets/img/photos/cat-health.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.35-9.5-8.5C1 8.5 2 5 5.5 5c2 0 3.5 1.2 4.5 3 1-1.8 2.5-3 4.5-3 3.5 0 4.5 3.5 3 6.5C19 15.65 12 20 12 20z"/></svg></span>
+            <span class="cat-card-en">Health</span>
+            <span class="cat-card-ja">健康</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+      <a href="index.html#tech" class="cat-card" data-cat-link="tech" style="background-image:url('assets/img/photos/cat-tech.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="1"/><path d="M8 20h8M12 16v4"/></svg></span>
+            <span class="cat-card-en">Tech</span>
+            <span class="cat-card-ja">テクノロジー</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
+      <a href="about.html" class="cat-card" style="background-image:url('assets/img/photos/cat-column.jpg')">
+        <div class="cat-card-body">
+          <div>
+            <span class="cat-card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg></span>
+            <span class="cat-card-en">Column</span>
+            <span class="cat-card-ja">コラム</span>
+          </div>
+          <span class="cat-card-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+        </div>
+      </a>
     </div>
   </section>
 
