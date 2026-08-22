@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="台風シーズンの在宅防災ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e0ff"/>
+<stop offset="1" stop-color="#ffd6c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="195" cy="119" r="6" fill="#ffffff" opacity="0.5"/><circle cx="448" cy="441" r="3" fill="#ffffff" opacity="0.65"/><circle cx="571" cy="390" r="5" fill="#ffffff" opacity="0.5"/><circle cx="478" cy="392" r="6" fill="#ffffff" opacity="0.8"/><circle cx="254" cy="437" r="3" fill="#ffffff" opacity="0.65"/><circle cx="44" cy="137" r="5" fill="#ffffff" opacity="0.8"/><circle cx="227" cy="314" r="4" fill="#ffffff" opacity="0.5"/><circle cx="1005" cy="291" r="6" fill="#ffffff" opacity="0.5"/><circle cx="706" cy="175" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1070" cy="421" r="4" fill="#ffffff" opacity="0.65"/><circle cx="140" cy="66" r="3" fill="#ffffff" opacity="0.5"/><circle cx="989" cy="437" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1161" cy="356" r="3" fill="#ffffff" opacity="0.65"/><circle cx="344" cy="92" r="4" fill="#ffffff" opacity="0.5"/><path d="M690 127 L694 137 L704 141 L694 145 L690 155 L686 145 L676 141 L686 137 Z" fill="#ffffff" opacity="0.55"/><path d="M1041 373 L1047 389 L1063 395 L1047 401 L1041 417 L1035 401 L1019 395 L1035 389 Z" fill="#ffffff" opacity="0.55"/><path d="M813 426 L819 442 L835 448 L819 454 L813 470 L807 454 L791 448 L807 442 Z" fill="#ffffff" opacity="0.7"/><path d="M387 157 L393 173 L409 179 L393 185 L387 201 L381 185 L365 179 L381 173 Z" fill="#ffffff" opacity="0.55"/><path d="M755 277 L761 293 L777 299 L761 305 L755 321 L749 305 L733 299 L749 293 Z" fill="#ffffff" opacity="0.55"/><path d="M1046 340 L1051 353 L1064 358 L1051 363 L1046 376 L1041 363 L1028 358 L1041 353 Z" fill="#ffffff" opacity="0.7"/>
+<text x="600" y="380" font-size="220" text-anchor="middle">🔋</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">台風シーズンの在宅防災ガイド</text>
+</svg>
