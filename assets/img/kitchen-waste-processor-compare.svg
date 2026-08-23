@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="生ゴミ処理機おすすめ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4f0d8"/>
+<stop offset="1" stop-color="#ffe6c4"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="610" cy="505" r="4" fill="#ffffff" opacity="0.65"/><circle cx="412" cy="91" r="3" fill="#ffffff" opacity="0.8"/><circle cx="516" cy="450" r="6" fill="#ffffff" opacity="0.8"/><circle cx="540" cy="566" r="6" fill="#ffffff" opacity="0.5"/><circle cx="792" cy="537" r="4" fill="#ffffff" opacity="0.8"/><circle cx="629" cy="305" r="4" fill="#ffffff" opacity="0.5"/><circle cx="736" cy="207" r="4" fill="#ffffff" opacity="0.5"/><circle cx="983" cy="168" r="3" fill="#ffffff" opacity="0.65"/><circle cx="932" cy="561" r="5" fill="#ffffff" opacity="0.8"/><circle cx="596" cy="239" r="5" fill="#ffffff" opacity="0.8"/><circle cx="47" cy="69" r="5" fill="#ffffff" opacity="0.5"/><circle cx="760" cy="93" r="6" fill="#ffffff" opacity="0.65"/><circle cx="537" cy="523" r="5" fill="#ffffff" opacity="0.65"/><circle cx="530" cy="346" r="6" fill="#ffffff" opacity="0.65"/><path d="M1076 132 L1080 142 L1090 146 L1080 150 L1076 160 L1072 150 L1062 146 L1072 142 Z" fill="#ffffff" opacity="0.55"/><path d="M464 525 L469 538 L482 543 L469 548 L464 561 L459 548 L446 543 L459 538 Z" fill="#ffffff" opacity="0.7"/><path d="M102 403 L108 419 L124 425 L108 431 L102 447 L96 431 L80 425 L96 419 Z" fill="#ffffff" opacity="0.55"/><path d="M820 534 L826 550 L842 556 L826 562 L820 578 L814 562 L798 556 L814 550 Z" fill="#ffffff" opacity="0.55"/><path d="M328 353 L332 363 L342 367 L332 371 L328 381 L324 371 L314 367 L324 363 Z" fill="#ffffff" opacity="0.55"/><path d="M124 242 L128 252 L138 256 L128 260 L124 270 L120 260 L110 256 L120 252 Z" fill="#ffffff" opacity="0.7"/><text x="600" y="380" font-size="220" text-anchor="middle">♻️</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">生ゴミ処理機おすすめ比較</text>
+</svg>
