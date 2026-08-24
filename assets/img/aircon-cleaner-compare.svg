@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="エアコン洗浄グッズおすすめ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e0ff"/>
+<stop offset="1" stop-color="#dff0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="886" cy="74" r="4" fill="#ffffff" opacity="0.8"/><circle cx="419" cy="36" r="3" fill="#ffffff" opacity="0.65"/><circle cx="737" cy="391" r="5" fill="#ffffff" opacity="0.5"/><circle cx="785" cy="507" r="5" fill="#ffffff" opacity="0.65"/><circle cx="572" cy="537" r="3" fill="#ffffff" opacity="0.5"/><circle cx="234" cy="208" r="5" fill="#ffffff" opacity="0.65"/><circle cx="875" cy="358" r="4" fill="#ffffff" opacity="0.5"/><circle cx="944" cy="68" r="5" fill="#ffffff" opacity="0.65"/><circle cx="832" cy="312" r="6" fill="#ffffff" opacity="0.65"/><circle cx="675" cy="485" r="6" fill="#ffffff" opacity="0.65"/><circle cx="517" cy="197" r="4" fill="#ffffff" opacity="0.5"/><circle cx="429" cy="413" r="5" fill="#ffffff" opacity="0.5"/><circle cx="103" cy="133" r="4" fill="#ffffff" opacity="0.5"/><circle cx="52" cy="443" r="6" fill="#ffffff" opacity="0.8"/><path d="M115 221 L121 237 L137 243 L121 249 L115 265 L109 249 L93 243 L109 237 Z" fill="#ffffff" opacity="0.7"/><path d="M1027 514 L1031 524 L1041 528 L1031 532 L1027 542 L1023 532 L1013 528 L1023 524 Z" fill="#ffffff" opacity="0.7"/><path d="M697 65 L701 75 L711 79 L701 83 L697 93 L693 83 L683 79 L693 75 Z" fill="#ffffff" opacity="0.7"/><path d="M662 60 L666 70 L676 74 L666 78 L662 88 L658 78 L648 74 L658 70 Z" fill="#ffffff" opacity="0.55"/><path d="M573 448 L579 464 L595 470 L579 476 L573 492 L567 476 L551 470 L567 464 Z" fill="#ffffff" opacity="0.7"/><path d="M762 118 L768 134 L784 140 L768 146 L762 162 L756 146 L740 140 L756 134 Z" fill="#ffffff" opacity="0.7"/><text x="600" y="380" font-size="220" text-anchor="middle">🧴</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">エアコン洗浄グッズおすすめ比較</text>
+</svg>
