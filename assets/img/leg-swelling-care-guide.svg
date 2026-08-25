@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="足のむくみ・冷え対策ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0e8"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="718" cy="592" r="4" fill="#ffffff" opacity="0.65"/><circle cx="87" cy="352" r="4" fill="#ffffff" opacity="0.8"/><circle cx="952" cy="89" r="5" fill="#ffffff" opacity="0.8"/><circle cx="576" cy="117" r="6" fill="#ffffff" opacity="0.8"/><circle cx="968" cy="204" r="3" fill="#ffffff" opacity="0.5"/><circle cx="1136" cy="315" r="4" fill="#ffffff" opacity="0.5"/><circle cx="923" cy="30" r="5" fill="#ffffff" opacity="0.5"/><circle cx="530" cy="205" r="5" fill="#ffffff" opacity="0.5"/><circle cx="37" cy="432" r="6" fill="#ffffff" opacity="0.5"/><circle cx="264" cy="494" r="6" fill="#ffffff" opacity="0.8"/><circle cx="573" cy="54" r="6" fill="#ffffff" opacity="0.5"/><circle cx="914" cy="146" r="5" fill="#ffffff" opacity="0.8"/><circle cx="407" cy="494" r="6" fill="#ffffff" opacity="0.8"/><circle cx="745" cy="123" r="3" fill="#ffffff" opacity="0.8"/><path d="M949 153 L954 166 L967 171 L954 176 L949 189 L944 176 L931 171 L944 166 Z" fill="#ffffff" opacity="0.55"/><path d="M191 536 L196 549 L209 554 L196 559 L191 572 L186 559 L173 554 L186 549 Z" fill="#ffffff" opacity="0.55"/><path d="M564 209 L569 222 L582 227 L569 232 L564 245 L559 232 L546 227 L559 222 Z" fill="#ffffff" opacity="0.7"/><path d="M1123 277 L1127 287 L1137 291 L1127 295 L1123 305 L1119 295 L1109 291 L1119 287 Z" fill="#ffffff" opacity="0.55"/><path d="M1051 46 L1056 59 L1069 64 L1056 69 L1051 82 L1046 69 L1033 64 L1046 59 Z" fill="#ffffff" opacity="0.7"/><path d="M874 513 L880 529 L896 535 L880 541 L874 557 L868 541 L852 535 L868 529 Z" fill="#ffffff" opacity="0.55"/><text x="600" y="380" font-size="220" text-anchor="middle">🦵</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">足のむくみ・冷え対策ガイド</text>
+</svg>
