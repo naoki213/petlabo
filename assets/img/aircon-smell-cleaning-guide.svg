@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="エアコンの臭い対策ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4e0ff"/>
+<stop offset="1" stop-color="#e0f0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="611" cy="536" r="6" fill="#ffffff" opacity="0.65"/><circle cx="110" cy="110" r="6" fill="#ffffff" opacity="0.5"/><circle cx="605" cy="584" r="3" fill="#ffffff" opacity="0.65"/><circle cx="1056" cy="554" r="4" fill="#ffffff" opacity="0.5"/><circle cx="263" cy="468" r="5" fill="#ffffff" opacity="0.8"/><circle cx="762" cy="111" r="5" fill="#ffffff" opacity="0.5"/><circle cx="510" cy="495" r="4" fill="#ffffff" opacity="0.65"/><circle cx="1009" cy="266" r="4" fill="#ffffff" opacity="0.8"/><circle cx="925" cy="475" r="4" fill="#ffffff" opacity="0.5"/><circle cx="556" cy="89" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1076" cy="406" r="3" fill="#ffffff" opacity="0.5"/><circle cx="913" cy="76" r="4" fill="#ffffff" opacity="0.8"/><circle cx="840" cy="578" r="5" fill="#ffffff" opacity="0.8"/><circle cx="98" cy="394" r="3" fill="#ffffff" opacity="0.65"/><path d="M202 299 L207 312 L220 317 L207 322 L202 335 L197 322 L184 317 L197 312 Z" fill="#ffffff" opacity="0.7"/><path d="M1029 427 L1033 437 L1043 441 L1033 445 L1029 455 L1025 445 L1015 441 L1025 437 Z" fill="#ffffff" opacity="0.7"/><path d="M497 298 L502 311 L515 316 L502 321 L497 334 L492 321 L479 316 L492 311 Z" fill="#ffffff" opacity="0.55"/><path d="M191 470 L197 486 L213 492 L197 498 L191 514 L185 498 L169 492 L185 486 Z" fill="#ffffff" opacity="0.55"/><path d="M1033 430 L1037 440 L1047 444 L1037 448 L1033 458 L1029 448 L1019 444 L1029 440 Z" fill="#ffffff" opacity="0.7"/><path d="M552 528 L557 541 L570 546 L557 551 L552 564 L547 551 L534 546 L547 541 Z" fill="#ffffff" opacity="0.55"/><text x="600" y="380" font-size="220" text-anchor="middle">❄️</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">エアコンの臭い対策ガイド</text>
+</svg>

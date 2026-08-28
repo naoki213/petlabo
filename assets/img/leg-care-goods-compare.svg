@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="足のむくみ・冷え対策グッズ比較">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffe0e8"/>
+<stop offset="1" stop-color="#e0f0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="375" cy="310" r="3" fill="#ffffff" opacity="0.8"/><circle cx="822" cy="326" r="6" fill="#ffffff" opacity="0.5"/><circle cx="919" cy="504" r="5" fill="#ffffff" opacity="0.8"/><circle cx="940" cy="63" r="5" fill="#ffffff" opacity="0.65"/><circle cx="172" cy="476" r="5" fill="#ffffff" opacity="0.65"/><circle cx="506" cy="326" r="6" fill="#ffffff" opacity="0.65"/><circle cx="254" cy="410" r="4" fill="#ffffff" opacity="0.5"/><circle cx="61" cy="200" r="6" fill="#ffffff" opacity="0.5"/><circle cx="1031" cy="384" r="6" fill="#ffffff" opacity="0.5"/><circle cx="988" cy="56" r="3" fill="#ffffff" opacity="0.8"/><circle cx="297" cy="82" r="6" fill="#ffffff" opacity="0.8"/><circle cx="1107" cy="352" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1058" cy="547" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1125" cy="474" r="6" fill="#ffffff" opacity="0.65"/><path d="M564 91 L569 104 L582 109 L569 114 L564 127 L559 114 L546 109 L559 104 Z" fill="#ffffff" opacity="0.7"/><path d="M401 183 L405 193 L415 197 L405 201 L401 211 L397 201 L387 197 L397 193 Z" fill="#ffffff" opacity="0.7"/><path d="M160 237 L165 250 L178 255 L165 260 L160 273 L155 260 L142 255 L155 250 Z" fill="#ffffff" opacity="0.7"/><path d="M320 441 L324 451 L334 455 L324 459 L320 469 L316 459 L306 455 L316 451 Z" fill="#ffffff" opacity="0.55"/><path d="M739 96 L744 109 L757 114 L744 119 L739 132 L734 119 L721 114 L734 109 Z" fill="#ffffff" opacity="0.7"/><path d="M738 162 L744 178 L760 184 L744 190 L738 206 L732 190 L716 184 L732 178 Z" fill="#ffffff" opacity="0.55"/><text x="600" y="380" font-size="220" text-anchor="middle">🦵</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">足のむくみ・冷え対策グッズ比較</text>
+</svg>

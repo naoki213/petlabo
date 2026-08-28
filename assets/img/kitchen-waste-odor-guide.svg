@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="生ゴミの臭い対策ガイド">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#c4f0d8"/>
+<stop offset="1" stop-color="#c4e0ff"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="687" cy="44" r="3" fill="#ffffff" opacity="0.65"/><circle cx="97" cy="447" r="5" fill="#ffffff" opacity="0.5"/><circle cx="221" cy="593" r="6" fill="#ffffff" opacity="0.5"/><circle cx="489" cy="384" r="5" fill="#ffffff" opacity="0.65"/><circle cx="434" cy="309" r="4" fill="#ffffff" opacity="0.5"/><circle cx="45" cy="312" r="3" fill="#ffffff" opacity="0.65"/><circle cx="139" cy="444" r="5" fill="#ffffff" opacity="0.8"/><circle cx="1054" cy="520" r="3" fill="#ffffff" opacity="0.65"/><circle cx="141" cy="423" r="6" fill="#ffffff" opacity="0.5"/><circle cx="840" cy="292" r="6" fill="#ffffff" opacity="0.65"/><circle cx="1004" cy="444" r="4" fill="#ffffff" opacity="0.8"/><circle cx="802" cy="302" r="5" fill="#ffffff" opacity="0.65"/><circle cx="599" cy="259" r="3" fill="#ffffff" opacity="0.8"/><circle cx="387" cy="196" r="3" fill="#ffffff" opacity="0.8"/><path d="M1108 124 L1113 137 L1126 142 L1113 147 L1108 160 L1103 147 L1090 142 L1103 137 Z" fill="#ffffff" opacity="0.7"/><path d="M662 95 L668 111 L684 117 L668 123 L662 139 L656 123 L640 117 L656 111 Z" fill="#ffffff" opacity="0.7"/><path d="M987 234 L993 250 L1009 256 L993 262 L987 278 L981 262 L965 256 L981 250 Z" fill="#ffffff" opacity="0.55"/><path d="M146 370 L150 380 L160 384 L150 388 L146 398 L142 388 L132 384 L142 380 Z" fill="#ffffff" opacity="0.7"/><path d="M739 367 L744 380 L757 385 L744 390 L739 403 L734 390 L721 385 L734 380 Z" fill="#ffffff" opacity="0.7"/><path d="M695 61 L701 77 L717 83 L701 89 L695 105 L689 89 L673 83 L689 77 Z" fill="#ffffff" opacity="0.7"/><text x="600" y="380" font-size="220" text-anchor="middle">🗑️</text>
+<text x="600" y="540" font-size="40" text-anchor="middle" font-family="sans-serif" font-weight="bold" fill="#334155" opacity="0.85">生ゴミの臭い対策ガイド</text>
+</svg>
