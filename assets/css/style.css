@@ -1351,3 +1351,5 @@ body.home .hero .search-box svg{ color: rgba(255,255,255,.7); }
 @media (max-width: 720px){
   .footer-bottom{ flex-direction: column; align-items: flex-start; }
 }
+
+.article-cover-img figcaption{padding:8px 12px 0;color:var(--text-muted);font-size:.75rem;text-align:right}.article-cover-img figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
