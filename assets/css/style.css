@@ -1356,3 +1356,12 @@ body.home .hero .search-box svg{ color: rgba(255,255,255,.7); }
 
 /* Dark-theme logo treatment for article and static pages */
 body:not(.home) .logo-img{filter:brightness(0) invert(1)}
+
+/* Dark article link visibility */
+.article-body a:not(.btn){color:#63c8ff;font-weight:700;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:.2em}
+.article-body a:not(.btn):visited{color:#b6a7ff}
+.article-body a:not(.btn):hover{color:#9bddff}
+.article-body a:not(.btn):focus-visible{outline:3px solid #ffd166;outline-offset:3px;border-radius:3px}
+.article-body .btn:not(.btn-amazon){width:min(100%,520px);min-height:52px;padding:14px 24px;background:linear-gradient(135deg,#0b9ee8,#0879c9);border:1px solid #69ceff;color:#fff;box-shadow:0 8px 22px rgba(0,148,224,.28);line-height:1.5;text-align:center;text-decoration:none;transition:transform .18s ease,filter .18s ease,box-shadow .18s ease}
+.article-body .btn:not(.btn-amazon):hover{filter:brightness(1.12);transform:translateY(-2px);box-shadow:0 11px 28px rgba(0,148,224,.38)}
+.article-body .btn:focus-visible{outline:3px solid #ffd166;outline-offset:4px}
